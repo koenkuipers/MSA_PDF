@@ -1,0 +1,90 @@
+"Database","Source_ID","SS_ID","Longitude","Latitude","Taxon_group","Pressure","Pressure_level","Pressure_unit","n_species","PDF","MSA_loss"
+"Midolo_GEB_2019","1991 Wilson and Tilman","1991 Wilson and Tilman",-93.2,45.4,"Plants","N_addition",20,"kg_N_ha_yr",8,0,0.357775302145338
+"Midolo_GEB_2019","1991 Wilson and Tilman","1991 Wilson and Tilman",-93.2,45.4,"Plants","N_addition",95,"kg_N_ha_yr",8,0.125,0.289480628874363
+"Midolo_GEB_2019","1991 Wilson and Tilman","1991 Wilson and Tilman",-93.2,45.4,"Plants","N_addition",170,"kg_N_ha_yr",8,0.125,0.245209128187288
+"Midolo_GEB_2019","1998 Foster and Goss","1998 Foster and Goss",-85.39,42.4,"Plants","N_addition",480,"kg_N_ha_yr",11,0.272727272727273,0.586341958859764
+"Midolo_GEB_2019","1998 Nohrstedt","1998 Nohrstedt",13.7,60,"Plants","N_addition",37.5,"kg_N_ha_yr",13,0.0769230769230769,0.250644547759932
+"Midolo_GEB_2019","1998 Nohrstedt","1998 Nohrstedt",13.7,60,"Plants","N_addition",75,"kg_N_ha_yr",13,0,0.264572692958238
+"Midolo_GEB_2019","1998 Nohrstedt","1998 Nohrstedt",13.7,60,"Plants","N_addition",150,"kg_N_ha_yr",13,0.0769230769230769,0.411725133840518
+"Midolo_GEB_2019","2001 Heijmans et al.","2001 Heijmans et al.",6.4,52.8,"Plants","N_addition",50,"kg_N_ha_yr",4,0,0.25
+"Midolo_GEB_2019","2002 Nilsson et al.","2002 Nilsson et al.",19,65.5,"Plants","N_addition",50,"kg_N_ha_yr",9,0,0.362997219381071
+"Midolo_GEB_2019","2002 Ostertag and Verville A","2002 Ostertag and Verville A",-155.25,19.41,"Plants","N_addition",100,"kg_N_ha_yr",9,0.111111111111111,0.589626677889126
+"Midolo_GEB_2019","2002 Ostertag and Verville B","2002 Ostertag and Verville B",-159.61,22.14,"Plants","N_addition",100,"kg_N_ha_yr",15,0.2,0.470600519193304
+"Midolo_GEB_2019","2003 Carroll et al. A","2003 Carroll et al. A",-2,53,"Plants","N_addition",35,"kg_N_ha_yr",9,0.111111111111111,0.221576817861648
+"Midolo_GEB_2019","2003 Carroll et al. A","2003 Carroll et al. A",-2,53,"Plants","N_addition",70,"kg_N_ha_yr",9,0,0.129603012431163
+"Midolo_GEB_2019","2003 Carroll et al. A","2003 Carroll et al. A",-2,53,"Plants","N_addition",140,"kg_N_ha_yr",9,0,0.19460933006693
+"Midolo_GEB_2019","2003 Carroll et al. B","2003 Carroll et al. B",-2,53,"Plants","N_addition",35,"kg_N_ha_yr",5,0,0.0586180124223602
+"Midolo_GEB_2019","2003 Carroll et al. B","2003 Carroll et al. B",-2,53,"Plants","N_addition",70,"kg_N_ha_yr",5,0,0.126211689237348
+"Midolo_GEB_2019","2003 Carroll et al. B","2003 Carroll et al. B",-2,53,"Plants","N_addition",140,"kg_N_ha_yr",5,0,0.176888046023826
+"Midolo_GEB_2019","2003 Zavaleta et al.","2003 Zavaleta et al.",-122,37.5,"Plants","N_addition",70,"kg_N_ha_yr",5,0,0.491895761838266
+"Midolo_GEB_2019","2005 Fremstad et al. A","2005 Fremstad et al. A",9.41,62.28,"Plants","N_addition",7,"kg_N_ha_yr",22,0,0.0674242424242424
+"Midolo_GEB_2019","2005 Fremstad et al. A","2005 Fremstad et al. A",9.41,62.28,"Plants","N_addition",35,"kg_N_ha_yr",22,0,0.0779220779220779
+"Midolo_GEB_2019","2005 Fremstad et al. A","2005 Fremstad et al. A",9.41,62.28,"Plants","N_addition",70,"kg_N_ha_yr",22,0.0454545454545454,0.149242424242424
+"Midolo_GEB_2019","2005 Fremstad et al. B","2005 Fremstad et al. B",9.53,62.28,"Plants","N_addition",7,"kg_N_ha_yr",18,0,0.0950536062378168
+"Midolo_GEB_2019","2005 Fremstad et al. B","2005 Fremstad et al. B",9.53,62.28,"Plants","N_addition",35,"kg_N_ha_yr",18,0.111111111111111,0.216401799954432
+"Midolo_GEB_2019","2005 Fremstad et al. B","2005 Fremstad et al. B",9.53,62.28,"Plants","N_addition",70,"kg_N_ha_yr",18,0.0555555555555556,0.196271613376876
+"Midolo_GEB_2019","2005 Soudzilovskaia and Onipchenko","2005 Soudzilovskaia and Onipchenko",41.7,43.45,"Plants","N_addition",90,"kg_N_ha_yr",7,0,0.322761635424115
+"Midolo_GEB_2019","2006 Gilliam et al.","2006 Gilliam et al.",-79.81,39.05,"Plants","N_addition",35,"kg_N_ha_yr",26,0.307692307692308,0.414690573407665
+"Midolo_GEB_2019","2010 Zeng et al.","2010 Zeng et al.",122.35,42.97,"Plants","N_addition",200,"kg_N_ha_yr",11,0.0909090909090909,0.491965272408526
+"Midolo_GEB_2019","2011 Pan et al.","2011 Pan et al.",116.7,43.63,"Plants","N_addition",17.5,"kg_N_ha_yr",10,0,0.162080766852038
+"Midolo_GEB_2019","2011 Pan et al.","2011 Pan et al.",116.7,43.63,"Plants","N_addition",52.5,"kg_N_ha_yr",10,0,0.186131853093346
+"Midolo_GEB_2019","2011 Pan et al.","2011 Pan et al.",116.7,43.63,"Plants","N_addition",105,"kg_N_ha_yr",10,0,0.0989798357072686
+"Midolo_GEB_2019","2011 Pan et al.","2011 Pan et al.",116.7,43.63,"Plants","N_addition",175,"kg_N_ha_yr",10,0,0.144915081111772
+"Midolo_GEB_2019","2011 Pan et al.","2011 Pan et al.",116.7,43.63,"Plants","N_addition",280,"kg_N_ha_yr",10,0,0.178479191526813
+"Midolo_GEB_2019","2011 Sheppard et al.","2011 Sheppard et al.",-3.27,55.77,"Plants","N_addition",8,"kg_N_ha_yr",6,0.166666666666667,0.287615740740741
+"Midolo_GEB_2019","2011 Sheppard et al.","2011 Sheppard et al.",-3.27,55.77,"Plants","N_addition",24,"kg_N_ha_yr",6,0.333333333333333,0.626307865053846
+"Midolo_GEB_2019","2011 Sheppard et al.","2011 Sheppard et al.",-3.27,55.77,"Plants","N_addition",56,"kg_N_ha_yr",6,0.5,0.657020364415863
+"Midolo_GEB_2019","2012 Bustamante et al.","2012 Bustamante et al.",-47.88,-15.93,"Plants","N_addition",100,"kg_N_ha_yr",35,0.142857142857143,0.38611864436147
+"Midolo_GEB_2019","2012 Ladwig et al.","2012 Ladwig et al.",-106.97,34.34,"Plants","N_addition",100,"kg_N_ha_yr",21,0,0.15986554796096
+"Midolo_GEB_2019","2014 Brancaleoni et al. A","2014 Brancaleoni et al. A",11.73,46.35,"Plants","N_addition",10,"kg_N_ha_yr",16,0.0625,0.256502964701049
+"Midolo_GEB_2019","2014 Brancaleoni et al. A","2014 Brancaleoni et al. A",11.73,46.35,"Plants","N_addition",30,"kg_N_ha_yr",16,0,0.160757304905329
+"Midolo_GEB_2019","2014 Brancaleoni et al. B","2014 Brancaleoni et al. B",11.73,46.35,"Plants","N_addition",10,"kg_N_ha_yr",17,0.0588235294117647,0.357037577095066
+"Midolo_GEB_2019","2014 Brancaleoni et al. B","2014 Brancaleoni et al. B",11.73,46.35,"Plants","N_addition",30,"kg_N_ha_yr",17,0.117647058823529,0.425704929831524
+"Midolo_GEB_2019","2015 Bai et al.","2015 Bai et al.",122.86,44.42,"Plants","N_addition",23,"kg_N_ha_yr",16,0.0625,0.281346545528856
+"Midolo_GEB_2019","2015 Bai et al.","2015 Bai et al.",122.86,44.42,"Plants","N_addition",46,"kg_N_ha_yr",16,0.1875,0.555971934311648
+"Midolo_GEB_2019","2015 Bai et al.","2015 Bai et al.",122.86,44.42,"Plants","N_addition",69,"kg_N_ha_yr",16,0.25,0.693678832239411
+"Midolo_GEB_2019","2015 Bai et al.","2015 Bai et al.",122.86,44.42,"Plants","N_addition",92,"kg_N_ha_yr",16,0.375,0.76330925485638
+"Midolo_GEB_2019","2015 Gasarch and Seastedt A","2015 Gasarch and Seastedt A",-105.58,40.05,"Plants","N_addition",100,"kg_N_ha_yr",7,0,0.247673617460706
+"Midolo_GEB_2019","2015 Gasarch and Seastedt B","2015 Gasarch and Seastedt B",-105.58,40.05,"Plants","N_addition",100,"kg_N_ha_yr",7,0.142857142857143,0.250958473443806
+"Midolo_GEB_2019","2015 Gasarch and Seastedt C","2015 Gasarch and Seastedt C",-105.58,40.05,"Plants","N_addition",100,"kg_N_ha_yr",5,0,0.478690156907112
+"Midolo_GEB_2019","2015 Gornish and Miller","2015 Gornish and Miller",-84,30.5,"Plants","N_addition",40,"kg_N_ha_yr",13,0.153846153846154,0.257887740015615
+"Midolo_GEB_2019","2015 Huang et al.","2015 Huang et al.",106.5,29.5,"Plants","N_addition",40,"kg_N_ha_yr",4,0.25,0.356589147286822
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki A","2015 Nishimura and Tsuyuzaki A",141.7,45.1,"Plants","N_addition",45,"kg_N_ha_yr",3,0,0.0931266485696675
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki A","2015 Nishimura and Tsuyuzaki A",141.7,45.1,"Plants","N_addition",90,"kg_N_ha_yr",3,0,0.225414252234691
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki A","2015 Nishimura and Tsuyuzaki A",141.7,45.1,"Plants","N_addition",180,"kg_N_ha_yr",3,0,0.3017371475069
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki A","2015 Nishimura and Tsuyuzaki A",141.7,45.1,"Plants","N_addition",360,"kg_N_ha_yr",3,0,0.33268885195844
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki B","2015 Nishimura and Tsuyuzaki B",141.7,45.1,"Plants","N_addition",45,"kg_N_ha_yr",4,0,0.451085858585859
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki B","2015 Nishimura and Tsuyuzaki B",141.7,45.1,"Plants","N_addition",90,"kg_N_ha_yr",4,0,0.305700757575758
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki B","2015 Nishimura and Tsuyuzaki B",141.7,45.1,"Plants","N_addition",180,"kg_N_ha_yr",4,0,0.231336279461279
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki B","2015 Nishimura and Tsuyuzaki B",141.7,45.1,"Plants","N_addition",360,"kg_N_ha_yr",4,0.25,0.354219276094276
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki C","2015 Nishimura and Tsuyuzaki C",141.7,45.1,"Plants","N_addition",45,"kg_N_ha_yr",3,0,0.333333333333333
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki C","2015 Nishimura and Tsuyuzaki C",141.7,45.1,"Plants","N_addition",90,"kg_N_ha_yr",3,0,0.116322565217843
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki C","2015 Nishimura and Tsuyuzaki C",141.7,45.1,"Plants","N_addition",180,"kg_N_ha_yr",3,0,0.238714852670398
+"Midolo_GEB_2019","2015 Nishimura and Tsuyuzaki C","2015 Nishimura and Tsuyuzaki C",141.7,45.1,"Plants","N_addition",360,"kg_N_ha_yr",3,0,0.278779166205905
+"Midolo_GEB_2019","2015 Tognetti and Chaneton","2015 Tognetti and Chaneton",-61.08,-35.88,"Plants","N_addition",450,"kg_N_ha_yr",6,0.5,0.592430821626224
+"Midolo_GEB_2019","2015 Urbina and Benavides","2015 Urbina and Benavides",-75.67,6.67,"Plants","N_addition",11,"kg_N_ha_yr",20,0.4,0.452212885154062
+"Midolo_GEB_2019","2015 Verma et al.","2015 Verma et al.",83.05,24.3,"Plants","N_addition",60,"kg_N_ha_yr",15,0,0.190930889075638
+"Midolo_GEB_2019","2015 Verma et al.","2015 Verma et al.",83.05,24.3,"Plants","N_addition",120,"kg_N_ha_yr",15,0.333333333333333,0.401224920454953
+"Midolo_GEB_2019","2015 Yu et al.","2015 Yu et al.",119.7,48.5,"Plants","N_addition",100,"kg_N_ha_yr",11,0,0.136598210873083
+"Midolo_GEB_2019","2016 Chapman et al.","2016 Chapman et al.",-75.43,39.95,"Plants","N_addition",100,"kg_N_ha_yr",6,0.166666666666667,0.322117466807409
+"Midolo_GEB_2019","2016 Chapman et al.","2016 Chapman et al.",-75.43,39.95,"Plants","N_addition",200,"kg_N_ha_yr",6,0.166666666666667,0.215900486809815
+"Midolo_GEB_2019","2016 Smith et al.","2016 Smith et al.",-87,40.5,"Plants","N_addition",50,"kg_N_ha_yr",18,0.0555555555555556,0.231707061597166
+"Midolo_GEB_2019","2016 Zhou et al.","2016 Zhou et al.",101.88,35.96,"Plants","N_addition",100,"kg_N_ha_yr",24,0.0416666666666666,0.495931570545711
+"Midolo_GEB_2019","Bird and Choi (2016)","Bird and Choi (2016)",-87.19,41.62,"Plants","N_addition",15,"kg_N_ha_yr",5,0,0.4
+"Midolo_GEB_2019","Bird and Choi (2016)","Bird and Choi (2016)",-87.19,41.62,"Plants","N_addition",60,"kg_N_ha_yr",5,0,0.385714285714286
+"Midolo_GEB_2019","Bird and Choi (2016)","Bird and Choi (2016)",-87.19,41.62,"Plants","N_addition",120,"kg_N_ha_yr",5,0,0.428571428571429
+"Midolo_GEB_2019","Du (2017)","Du (2017)",121.5,50.93,"Plants","N_addition",20,"kg_N_ha_yr",8,0.125,0.242430639977117
+"Midolo_GEB_2019","Du (2017)","Du (2017)",121.5,50.93,"Plants","N_addition",50,"kg_N_ha_yr",8,0.125,0.36275590710471
+"Midolo_GEB_2019","Du (2017)","Du (2017)",121.5,50.93,"Plants","N_addition",100,"kg_N_ha_yr",8,0.125,0.364650839080712
+"Midolo_GEB_2019","Kwak et al. (2018)","Kwak et al. (2018)",-111,56,"Plants","N_addition",30,"kg_N_ha_yr",11,0.0909090909090909,0.254952019424423
+"Midolo_GEB_2019","Lezama and Paruelo (2016)","Lezama and Paruelo (2016)",-54.96,-34.33,"Plants","N_addition",360,"kg_N_ha_yr",5,0,0.571127539955111
+"Midolo_GEB_2019","Niu et al. (2017)","Niu et al. (2017)",104.15,35.95,"Plants","N_addition",11.5,"kg_N_ha_yr",4,0,0.252604166666667
+"Midolo_GEB_2019","Niu et al. (2017)","Niu et al. (2017)",104.15,35.95,"Plants","N_addition",23,"kg_N_ha_yr",4,0,0.253770848440899
+"Midolo_GEB_2019","Niu et al. (2017)","Niu et al. (2017)",104.15,35.95,"Plants","N_addition",46,"kg_N_ha_yr",4,0,0.270244138264443
+"Midolo_GEB_2019","Niu et al. (2017)","Niu et al. (2017)",104.15,35.95,"Plants","N_addition",92,"kg_N_ha_yr",4,0,0.26595358955765
+"Midolo_GEB_2019","Niu et al. (2017)","Niu et al. (2017)",104.15,35.95,"Plants","N_addition",138,"kg_N_ha_yr",4,0,0.41603781423737
+"Midolo_GEB_2019","Vourlitis (2017)","Vourlitis (2017)",-117.15,33.48,"Plants","N_addition",50,"kg_N_ha_yr",3,0,0.255961071384304
+"Midolo_GEB_2019","Wang et al. (2016)A","Wang et al. (2016)A",-75.52,45.41,"Plants","N_addition",32,"kg_N_ha_yr",4,0,0.0832521876853446
+"Midolo_GEB_2019","Wang et al. (2016)A","Wang et al. (2016)A",-75.52,45.41,"Plants","N_addition",64,"kg_N_ha_yr",4,0,0.25
+"Midolo_GEB_2019","Wang et al. (2016)B","Wang et al. (2016)B",-75.52,45.41,"Plants","N_addition",16,"kg_N_ha_yr",4,0,0.143898042712357
+"Midolo_GEB_2019","Wang et al. (2017)","Wang et al. (2017)",-101.6,41.2,"Plants","N_addition",100,"kg_N_ha_yr",8,0,0.284809628938994
