@@ -1,0 +1,854 @@
+"Database","Source_ID","SS_ID","Longitude","Latitude","Taxon_group","Pressure","Pressure_level","Pressure_unit","n_species","PDF","MSA_loss"
+"PREDICTS","AD1_2010__Quintero","AD1_2010__Quintero 1",-71.81667,-41.03333,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0.333333333333333,0.333333333333333
+"PREDICTS","AD1_2010__Quintero","AD1_2010__Quintero 1",-71.53333,-41.15,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","AD1_2010__Quintero","AD1_2010__Quintero 1",-71.31667,-41.15,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","AD1_2011__Tonietto","AD1_2011__Tonietto 1",-88.1447583333,41.3482388889,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",33,0.545454545454545,0.580899908172635
+"PREDICTS","AD1_2011__Tonietto","AD1_2011__Tonietto 1",-87.8182944444,42.100425,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",33,0.787878787878788,0.787878787878788
+"PREDICTS","AD1_2011__Tonietto","AD1_2011__Tonietto 1",-87.8183527778,42.0994916667,"Invertebrates","Land_use","Urban","Land_use_category",33,0.848484848484849,0.848484848484849
+"PREDICTS","AD1_2011__Tonietto","AD1_2011__Tonietto 1",-87.6468310606091,41.9052507575727,"Invertebrates","Land_use","Urban","Land_use_category",33,0.515151515151515,0.693380938009037
+"PREDICTS","AD1_2012__Yamaura","AD1_2012__Yamaura 3",141.25209,39.800684,"Plants","Land_use","Cropland","Land_use_category",26,0.807692307692308,0.85989010989011
+"PREDICTS","AD1_2012__Yamaura","AD1_2012__Yamaura 3",141.378983,39.792631,"Plants","Land_use","Pasture","Land_use_category",45,0.844444444444444,0.911531986531987
+"PREDICTS","AD1_2013__Grass","AD1_2013__Grass 1",30.2949628333333,-30.671239,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.428571428571429,0.56025267249757
+"PREDICTS","AR1_2007__Gottschalk","AR1_2007__Gottschalk 1",-48.5177778,-27.58444444,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0.166666666666667,0.217505634861007
+"PREDICTS","AR1_2007__Gottschalk","AR1_2007__Gottschalk 1",-48.550556,-27.590833,"Invertebrates","Land_use","Urban","Land_use_category",22,0,0.219584705684443
+"PREDICTS","AR1_2007__Gottschalk","AR1_2007__Gottschalk 1",-48.536667,-27.597222,"Invertebrates","Land_use","Urban","Land_use_category",13,0.153846153846154,0.362290062118465
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.8641692307692,16.2011,"Invertebrates","Land_use","Pasture","Land_use_category",30,0.766666666666667,0.956889487827074
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.86315,16.2059,"Invertebrates","Land_use","Pasture","Land_use_category",14,0.785714285714286,0.856781896432042
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.9821,16.1045,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",44,0.431818181818182,0.702548529985984
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.8566083333333,16.1843541666667,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0,0.213715277777778
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.8561461538462,16.1875115384615,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",2,0.5,0.778409090909091
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.846115,16.21005,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.333333333333333,0.506255355612682
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.84608,16.21037,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",5,0.2,0.328309654972456
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.8452809523809,16.205480952381,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",14,0.0714285714285714,0.527832276603166
+"PREDICTS","AR1_2008__Navarrete","AR1_2008__Navarrete 1",-90.8436052631579,16.2139947368421,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",17,0.176470588235294,0.467214751747468
+"PREDICTS","AR1_2010__Kone","AR1_2010__Kone 1",-5.01406773536,6.23875530889,"Invertebrates","Land_use","Forest_plantation","Land_use_category",51,0.431372549019608,0.673214675635354
+"PREDICTS","AR1_2010__Kone","AR1_2010__Kone 1",-5.04677039061,6.26608560109,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",51,0.235294117647059,0.367164945827621
+"PREDICTS","AR1_2011__Slade","AR1_2011__Slade 1",117.6530417,5.094791667,"Invertebrates","Land_use","Forest_plantation","Land_use_category",31,0.129032258064516,0.340965832266986
+"PREDICTS","AR1_2011__Slade","AR1_2011__Slade 1",117.863125,4.98665,"Invertebrates","Land_use","Forest_plantation","Land_use_category",31,0.0645161290322581,0.324150301533513
+"PREDICTS","BS1_2011__Jolli","BS1_2011__Jolli 1",77.371,31.8386666666667,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0,0.348062015503876
+"PREDICTS","BS1_2012__Naithani","BS1_2012__Naithani 1",78.7836111111111,30.1865666666667,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",78,0.487179487179487,0.624491816225106
+"PREDICTS","BS1_2012__Naithani","BS1_2012__Naithani 1",78.7786203703704,30.1850083333333,"Vertebrates","Land_use","Urban","Land_use_category",78,0.307692307692308,0.558350171691974
+"PREDICTS","CC1_2007__Ewers","CC1_2007__Ewers 1",172.403120755821,-42.6008931127727,"Invertebrates","Land_use","Pasture","Land_use_category",3,0.333333333333333,0.748014801098514
+"PREDICTS","CC1_2007__Ewers","CC1_2007__Ewers 1",172.403799964794,-42.6010532427839,"Invertebrates","Land_use","Pasture","Land_use_category",8,0.5,0.659612893932128
+"PREDICTS","CC1_2013__Litchwark","CC1_2013__Litchwark 1",170.087520486111,-44.3187805555555,"Invertebrates","Land_use","Pasture","Land_use_category",26,0.230769230769231,0.453030430923926
+"PREDICTS","CC1_2013__Litchwark","CC1_2013__Litchwark 1",170.20020462963,-44.3526,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",26,0.230769230769231,0.412000658493993
+"PREDICTS","CM1_2007__MarinSpiotta","CM1_2007__MarinSpiotta 1",-66.0833333333,18.0166666667,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",19,0.631578947368421,0.81547619047619
+"PREDICTS","CM1_2007__MarinSpiotta","CM1_2007__MarinSpiotta 1",-66.0833333333,18.0166666667,"Plants","Land_use","Mature secondary vegetation","Land_use_category",19,0.421052631578947,0.50093984962406
+"PREDICTS","CM1_2007__MarinSpiotta","CM1_2007__MarinSpiotta 1",-66.0833333333,18.0166666667,"Plants","Land_use","Young secondary vegetation","Land_use_category",19,0.842105263157895,0.884210526315789
+"PREDICTS","CM1_2008__LoManHung","CM1_2008__LoManHung 1",-53.0470759528,-0.835868155556,"Invertebrates","Land_use","Forest_plantation","Land_use_category",13,0.769230769230769,0.825363825363825
+"PREDICTS","CM1_2008__LoManHung","CM1_2008__LoManHung 1",-52.8448874861,-0.887927675,"Invertebrates","Land_use","Forest_plantation","Land_use_category",13,0.923076923076923,0.984615384615385
+"PREDICTS","CM1_2008__LoManHung","CM1_2008__LoManHung 1",-52.8089701472,-0.695913522222,"Invertebrates","Land_use","Forest_plantation","Land_use_category",13,0.692307692307692,0.692307692307692
+"PREDICTS","CM1_2008__LoManHung","CM1_2008__LoManHung 1",-52.62629585555,-0.8329280597225,"Invertebrates","Land_use","Forest_plantation","Land_use_category",13,0.923076923076923,0.994802494802495
+"PREDICTS","CM1_2008__LoManHung","CM1_2008__LoManHung 1",-52.7826371417,-0.709216669444,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",13,0.769230769230769,0.798076923076923
+"PREDICTS","CM1_2008__LoManHung","CM1_2008__LoManHung 1",-52.65570555555,-0.5955240541665,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",13,0.615384615384615,0.717688842688843
+"PREDICTS","CM1_2008__LoManHung","CM1_2008__LoManHung 1",-52.6461812648333,-0.705571712036667,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",13,0.538461538461538,0.632478632478632
+"PREDICTS","CM1_2009__Letcher","CM1_2009__Letcher 1",-84.0959523785714,10.4108333314286,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",12,0.25,0.30952380952381
+"PREDICTS","CM1_2009__Letcher","CM1_2009__Letcher 1",-84.0917592566667,10.41185185,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",61,0.377049180327869,0.534956478541653
+"PREDICTS","CM1_2009__Letcher","CM1_2009__Letcher 1",-84.08375,10.42708333,"Plants","Land_use","Young secondary vegetation","Land_use_category",67,0.537313432835821,0.626801722774305
+"PREDICTS","CM1_2009__Letcher","CM1_2009__Letcher 1",-84.055208335,10.43048611,"Plants","Land_use","Young secondary vegetation","Land_use_category",9,0.666666666666667,0.684027777777778
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.7289575,-25.262963,"Invertebrates","Land_use","Forest_plantation","Land_use_category",3,0,0.0555555555555556
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.6758238571429,-25.329851,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.520426,-25.594835,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",3,0.666666666666667,0.944444444444444
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.482644,-25.2674116666667,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",3,0.666666666666667,0.781305114638448
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.667096,-25.41706,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.520426,-25.594835,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",3,0.666666666666667,0.940035273368607
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.6764351666667,-25.3060976666667,"Invertebrates","Land_use","Pasture","Land_use_category",3,0.666666666666667,0.775426219870664
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.6752303846154,-25.3224955384615,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",3,0,0.0256410256410257
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.520426,-25.594835,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",3,0.666666666666667,0.99294532627866
+"PREDICTS","CM1_2009__Roembke","CM1_2009__Roembke 1",-48.4909123333333,-25.2716855,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","CM1_2010__Berry","CM1_2010__Berry 1",117.817388923077,4.97419992307692,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",4,0.5,0.554878048780488
+"PREDICTS","CM1_2010__Berry","CM1_2010__Berry 1",117.817838,4.97407758333333,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",62,0.32258064516129,0.478860548017233
+"PREDICTS","CM1_2010__Berry","CM1_2010__Berry 1",117.818665928571,4.97410885714286,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",40,0.225,0.45085628748304
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.947822727364,-7.97708787878727,"Plants","Land_use","Forest_plantation","Land_use_category",27,0.962962962962963,0.996632996632997
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.94786666675,-7.9741333333325,"Plants","Land_use","Forest_plantation","Land_use_category",8,0.75,0.860054347826087
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.986287654481,-7.99514876543111,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.98832533348,-7.9920366666656,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",3,0.666666666666667,0.980869565217391
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.9911458335,-7.99667976190393,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",2,0.5,0.964285714285714
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.99257654337,-7.99717777777704,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",5,0.4,0.690750237416904
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.993798077077,-7.99575961538385,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",8,0.5,0.610576923076923
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.996546527917,-7.99256874999917,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",5,0.4,0.5625
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",156.95874583325,-7.9445291666675,"Plants","Land_use","Pasture","Land_use_category",32,0.96875,0.981317934782609
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",157.130549206286,-8.07293174603286,"Plants","Land_use","Young secondary vegetation","Land_use_category",2,0,0.178571428571429
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",157.134475438526,-8.07514561403632,"Plants","Land_use","Young secondary vegetation","Land_use_category",8,0.625,0.832988721804511
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",157.135087719211,-8.07699824561526,"Plants","Land_use","Young secondary vegetation","Land_use_category",3,0.666666666666667,0.878787878787879
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",157.135293518444,-8.07473611111222,"Plants","Land_use","Young secondary vegetation","Land_use_category",9,0.666666666666667,0.806584362139918
+"PREDICTS","CM1_2012__Katovai","CM1_2012__Katovai 1",157.135828703611,-8.07475092592722,"Plants","Land_use","Young secondary vegetation","Land_use_category",5,0.8,0.8
+"PREDICTS","CM1_2012__McNamara","CM1_2012__McNamara 1",102.1771945,18.2732306666667,"Plants","Land_use","Young secondary vegetation","Land_use_category",12,0,0.299241625543634
+"PREDICTS","DI1_2006__Scott","DI1_2006__Scott 1",46.44255,-24.8506666667,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.285714285714286,0.369047619047619
+"PREDICTS","DI1_2006__Scott","DI1_2006__Scott 2",46.44255,-24.8506666667,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",4,0.5,0.571428571428571
+"PREDICTS","DI1_2008__Noeske","DI1_2008__Noeske 1",-79.07715,-3.9742875,"Plants","Land_use","Mature secondary vegetation","Land_use_category",32,0.25,0.378797635895924
+"PREDICTS","DI1_2008__Noeske","DI1_2008__Noeske 1",-79.0802125,-3.97524722222,"Plants","Land_use","Secondary vegetation","Land_use_category",31,0.387096774193548,0.652896575301394
+"PREDICTS","DI1_2012__Reid","DI1_2012__Reid 1",-82.9675575714286,8.79034557142857,"Vertebrates","Land_use","Forest_plantation","Land_use_category",10,0.3,0.422516909177314
+"PREDICTS","DI1_2012__Reid","DI1_2012__Reid 1",-82.9674765384615,8.79041492307692,"Vertebrates","Land_use","Forest_plantation","Land_use_category",109,0.36697247706422,0.555856702390104
+"PREDICTS","DI1_2012__Reid","DI1_2012__Reid 1",-82.9680401333333,8.79010666666667,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",108,0.268518518518518,0.558423795604356
+"PREDICTS","DI1_2012__Reid","DI1_2012__Reid 1",-82.9680376923077,8.78995215384615,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",2,0,0.614514937156715
+"PREDICTS","DI1_2012__Reid","DI1_2012__Reid 1",-82.9680376923077,8.79020861538462,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",4,0.25,0.513128680348915
+"PREDICTS","DI1_2012__Reid","DI1_2012__Reid 1",-82.9679950769231,8.78990938461538,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",2,0,0.218630390626079
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5305232961111,20.0002942727778,"Invertebrates","Land_use","Cropland","Land_use_category",6,0.833333333333333,0.886666666666667
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5319646729167,19.9933297909722,"Invertebrates","Land_use","Forest_plantation","Land_use_category",6,0.833333333333333,0.891025641025641
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.3939834694444,19.93462535,"Invertebrates","Land_use","Forest_plantation","Land_use_category",4,0.5,0.5
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5365579694444,21.0011640583333,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",6,0.833333333333333,0.975
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5271731864379,19.991829849183,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",6,0.5,0.781248228338408
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.35443131,19.928691733,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",5,0,0.378035772357724
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.3514196876262,19.9317313381313,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",4,0,0.0604212860310421
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5269180488562,19.9948221349673,"Invertebrates","Land_use","Pasture","Land_use_category",6,0.5,0.766092154427787
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.3571501897523,19.9321777558934,"Invertebrates","Land_use","Pasture","Land_use_category",6,0.333333333333333,0.555740602009259
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5358791074074,19.9917561217593,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0.333333333333333,0.572515471423371
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.3554256489899,19.9324089422559,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0,0.0217322478516508
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5229948222222,20.000299575,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",6,0.666666666666667,0.943723689246077
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.34876525,19.9272611583333,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",6,0.5,0.642486546857549
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5271683455808,19.9962028859849,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",3,0,0.776197682914101
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.5256483295894,19.9962539407005,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",3,0.333333333333333,0.732334927608371
+"PREDICTS","DI1_2012__Roes","DI1_2012__Roes 1",-97.359615532381,19.9311928677381,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",6,0,0.269443453287498
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 1",6.63133556552262,0.33943910524961,"Vertebrates","Land_use","Cropland","Land_use_category",12,0,0.227702760511407
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 1",6.63311216153112,0.339762265289368,"Vertebrates","Land_use","Cropland","Land_use_category",5,0.6,0.6
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 1",6.65874695463486,0.340508034386908,"Vertebrates","Land_use","Forest_plantation","Land_use_category",5,0.4,0.506614785992218
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 1",6.65886390386865,0.34033427475696,"Vertebrates","Land_use","Forest_plantation","Land_use_category",6,0,0.112215909090909
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 1",6.65886595433345,0.340031647962982,"Vertebrates","Land_use","Forest_plantation","Land_use_category",6,0,0.0493647717484926
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 1",6.64713854624219,0.319375912993716,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",7,0.142857142857143,0.142857142857143
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 1",6.64742129359751,0.318573579254719,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",10,0,0.14364575992483
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.63182770787257,0.327964908806655,"Plants","Land_use","Cropland","Land_use_category",3,0.666666666666667,0.97979797979798
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.63293394534384,0.328156902691578,"Plants","Land_use","Cropland","Land_use_category",8,0.875,0.875
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.63352777630374,0.328176373550111,"Plants","Land_use","Cropland","Land_use_category",8,0.875,0.983
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.64630282319452,0.326290099932845,"Plants","Land_use","Forest_plantation","Land_use_category",2,0.5,0.926470588235294
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.64675582191887,0.325967651122051,"Plants","Land_use","Forest_plantation","Land_use_category",4,0.25,0.655555555555556
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.64683410794798,0.326673089037756,"Plants","Land_use","Forest_plantation","Land_use_category",8,0.5,0.766203703703704
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.6468736406249,0.326522544749901,"Plants","Land_use","Forest_plantation","Land_use_category",2,0.5,0.96969696969697
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.64715686341639,0.326121897267842,"Plants","Land_use","Forest_plantation","Land_use_category",3,0,0.835
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.60707628650486,0.328025894653765,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",8,0.75,0.849537037037037
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.60947422189663,0.328280103888998,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",5,0.6,0.6
+"PREDICTS","DI1_2013__deLima","DI1_2013__deLima 2",6.60998494311028,0.327818730242933,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",6,0.333333333333333,0.654938271604938
+"PREDICTS","DL1_2009__Rasmussen","DL1_2009__Rasmussen 1",-73.3477576666667,-3.87504066666667,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",26,0.0384615384615384,0.189963835402799
+"PREDICTS","DL1_2009__Sugiura","DL1_2009__Sugiura 1",142.198638888889,27.06725,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",9,0.444444444444444,0.512962962962963
+"PREDICTS","DL1_2009__Sugiura","DL1_2009__Sugiura 1",142.168777777778,27.1164166666667,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",9,0.444444444444444,0.702222222222222
+"PREDICTS","DL1_2010__Bocon","DL1_2010__Bocon 1",-54.4297222222222,-25.6013888888889,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",103,0.155339805825243,0.311749872940506
+"PREDICTS","DL1_2010__Bocon","DL1_2010__Bocon 1",-54.4297222222222,-25.6013888888889,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",103,0.174757281553398,0.304821371520754
+"PREDICTS","DL1_2010__Jacobs","DL1_2010__Jacobs 1",32.7387666666667,-26.6721516666667,"Invertebrates","Land_use","Pasture","Land_use_category",27,0.148148148148148,0.377113587126439
+"PREDICTS","DL1_2010__Miranda","DL1_2010__Miranda 1",-64.8841666666667,-23.9608333333333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",13,0.384615384615385,0.490384615384615
+"PREDICTS","DL1_2012__Politi","DL1_2012__Politi 1",-64.46993,-24.0923,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0,0.133333333333333
+"PREDICTS","DL1_2012__Ribeiro","DL1_2012__Ribeiro 1",-58.64768333332,-2.70787222222,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",31,0.0967741935483871,0.235010996338828
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.2522916666666,-26.7345138888889,"Plants","Land_use","Cropland","Land_use_category",161,0.987577639751553,0.991895050758751
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.2524074074074,-26.7346296296297,"Plants","Land_use","Cropland","Land_use_category",223,0.991031390134529,0.991031390134529
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.2525,-26.7347222222223,"Plants","Land_use","Cropland","Land_use_category",12,0.916666666666667,0.998015873015873
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.3695238095238,-26.6440476190476,"Plants","Land_use","Cropland","Land_use_category",334,0.985029940119761,0.987734816666233
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.3695833333334,-26.6441666666666,"Plants","Land_use","Cropland","Land_use_category",62,0.951612903225806,0.951612903225806
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.8248148148148,-31.7916358024692,"Plants","Land_use","Cropland","Land_use_category",3,0.666666666666667,0.94949494949495
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.8315384615385,-31.7904914529915,"Plants","Land_use","Cropland","Land_use_category",252,0.916666666666667,0.940823482007068
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.8326851851852,-31.7901388888889,"Plants","Land_use","Cropland","Land_use_category",2,0.5,0.972727272727273
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.8332738095238,-31.7900198412699,"Plants","Land_use","Cropland","Land_use_category",72,0.888888888888889,0.911145050125313
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.8348703703704,-31.789962962963,"Plants","Land_use","Cropland","Land_use_category",66,0.954545454545455,0.964481776455434
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",30.2322222222222,-27.1838888888889,"Plants","Land_use","Forest_plantation","Land_use_category",100,0.98,0.98
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",29.62,-26.0375,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",132,0.954545454545455,0.967918410870667
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",29.6214444444444,-26.0378055555556,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",108,0.953703703703704,0.953703703703704
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",29.6215277777778,-26.0355277777778,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",33,0.96969696969697,0.999449035812672
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",29.6218434343434,-26.0363888888889,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",123,0.934959349593496,0.937698201053711
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",29.9969444444445,-26.9506481481481,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",67,0.865671641791045,0.880332231271672
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",29.9984722222223,-26.9498611111111,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",329,0.911854103343465,0.925133135127559
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.25,-28.8502777777778,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",396,0.939393939393939,0.939393939393939
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.8493333333333,-28.8493333333334,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",92,0.858695652173913,0.861047263715464
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.8505555555555,-28.8490277777778,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",304,0.891447368421053,0.901089506542746
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5804444444444,-31.7016111111111,"Plants","Land_use","Pasture","Land_use_category",9,0.888888888888889,0.996913580246914
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5820138888889,-31.7075,"Plants","Land_use","Pasture","Land_use_category",64,0.875,0.912456611284343
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5831481481481,-31.7037037037037,"Plants","Land_use","Pasture","Land_use_category",6,0.833333333333333,0.833333333333333
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5843518518518,-31.6998148148148,"Plants","Land_use","Pasture","Land_use_category",25,0.92,0.92
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5844444444444,-31.7056481481482,"Plants","Land_use","Pasture","Land_use_category",47,0.914893617021277,0.914893617021277
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5848333333333,-31.7018333333334,"Plants","Land_use","Pasture","Land_use_category",10,0.8,0.8
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5850396825397,-31.7026984126984,"Plants","Land_use","Pasture","Land_use_category",5,0.8,0.8
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5867592592592,-31.7009722222223,"Plants","Land_use","Pasture","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5873611111111,-31.6990277777778,"Plants","Land_use","Pasture","Land_use_category",29,0.931034482758621,0.953819158269747
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5891666666667,-31.6985555555556,"Plants","Land_use","Pasture","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",28.5893055555555,-31.7019444444445,"Plants","Land_use","Pasture","Land_use_category",186,0.897849462365591,0.908847676065776
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.1583333333333,-28.5495833333333,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",66,0.939393939393939,0.948817895440227
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.1591666666667,-28.5472222222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",321,0.950155763239875,0.950155763239875
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.1615740740741,-28.5614814814815,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",2,0.5,0.875
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.1636111111112,-28.56625,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.857142857142857,0.993506493506494
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.9854365079365,-28.768253968254,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",80,0.875,0.875
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.9856481481482,-28.7684722222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",258,0.833333333333333,0.842595478453717
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",31.9858333333333,-28.7676851851852,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",58,0.827586206896552,0.830407750505631
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.0180555555555,-26.7170833333333,"Plants","Land_use","Urban","Land_use_category",147,0.965986394557823,0.966137566137566
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.0211111111111,-26.7108333333333,"Plants","Land_use","Urban","Land_use_category",130,0.984615384615385,0.984615384615385
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",27.0277777777778,-26.7133333333333,"Plants","Land_use","Urban","Land_use_category",119,0.974789915966387,0.974789915966387
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",30.8945138888889,-29.9322222222222,"Plants","Land_use","Urban","Land_use_category",309,0.896440129449838,0.912949965958732
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",30.8952777777778,-29.9319047619047,"Plants","Land_use","Urban","Land_use_category",3,0.666666666666667,0.877826259420865
+"PREDICTS","DL1_2012__Siebert","DL1_2012__Siebert 1",30.8955158730159,-29.9321825396825,"Plants","Land_use","Urban","Land_use_category",84,0.916666666666667,0.916999421399641
+"PREDICTS","DL1_2013__OforiBoateng","DL1_2013__OforiBoateng 1",-3.07333333333333,6.47416666666667,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",12,0.916666666666667,0.961538461538462
+"PREDICTS","DL1_2013__OforiBoateng","DL1_2013__OforiBoateng 1",-1.32055555555556,5.61944444444445,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",12,0.25,0.398946886446886
+"PREDICTS","DL1_2013__OforiBoateng","DL1_2013__OforiBoateng 1",-2.64972222222222,5.24416666666667,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",12,0.25,0.472756173365929
+"PREDICTS","DL1_2013__Rodrigues","DL1_2013__Rodrigues 1",-55.0260277777778,-22.1445,"Invertebrates","Land_use","Cropland","Land_use_category",28,0.178571428571429,0.421768961500483
+"PREDICTS","DL1_2013__Rodrigues","DL1_2013__Rodrigues 1",-55.3225555555556,-21.99,"Invertebrates","Land_use","Pasture","Land_use_category",28,0.178571428571429,0.439402327044484
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.2220076666667,5.37538666666667,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",11,0.0909090909090909,0.373472938599223
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-52.607433,4.865418,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",11,0.454545454545455,0.730892280357252
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-52.131635,4.059572,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",11,0.363636363636364,0.677514675007557
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-54.155877,5.280158,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.454545454545455,0.59171648017353
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.967133,5.348667,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.454545454545455,0.686170602230883
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.921713,5.726994,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.636363636363636,0.789897821640148
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.896275,5.553985,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.636363636363636,0.832244064446254
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.480165,5.273194,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.545454545454545,0.931063064290383
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-52.802106,5.174982,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.636363636363636,0.726392961876833
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-52.632553,4.999466,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.181818181818182,0.535555401054015
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-52.569916,4.899048,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",11,0.272727272727273,0.571420120991409
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.948397,5.653225,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.363636363636364,0.566122790401722
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.941681,5.202246,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.181818181818182,0.452005928451529
+"PREDICTS","DL1_2013__deThoisy","DL1_2013__deThoisy 1",-53.216829,5.36110075,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.181818181818182,0.485426600864619
+"PREDICTS","EP1_1996__Laurance","EP1_1996__Laurance 1",145.59444,-17.59444,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",5,0,0.214003081647818
+"PREDICTS","EP1_1996__Laurance","EP1_1996__Laurance 1",145.56944,-17.53689,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",5,0,0.112820723879769
+"PREDICTS","HB1_1998__Svenning","HB1_1998__Svenning 1",-78.621555,0.117613,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",5,0,0.273116713352007
+"PREDICTS","HB1_1999__Vasconcelos","HB1_1999__Vasconcelos 1",-59.9636111111111,-2.36083333333333,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",25,0.68,0.74140350877193
+"PREDICTS","HB1_1999__Vasconcelos","HB1_1999__Vasconcelos 1",-60.105,-2.34027777777778,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",25,0.64,0.77838357115411
+"PREDICTS","HB1_2000__Vasconcelos","HB1_2000__Vasconcelos 1",-60.1833333333333,-2.63472222222222,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",41,0.341463414634146,0.543691859918234
+"PREDICTS","HB1_2000__Vasconcelos","HB1_2000__Vasconcelos 1",-60.1833333333333,-2.63472222222222,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",41,0.24390243902439,0.440503320451546
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",132.343166667,-23.303,"Vertebrates","Land_use","Pasture","Land_use_category",6,0,0.220454545454545
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",132.622833333,-22.7743333333,"Vertebrates","Land_use","Pasture","Land_use_category",6,0.333333333333333,0.4375
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",132.673333333,-22.4545,"Vertebrates","Land_use","Pasture","Land_use_category",6,0,0.2620670995671
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",132.8865,-22.6228333333,"Vertebrates","Land_use","Pasture","Land_use_category",6,0.333333333333333,0.479166666666667
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",131.538666667,-23.2356666667,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0.5,0.545454545454545
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",132.016833333,-23.4208333333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0.5,0.751893939393939
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",132.505,-23.8753333333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0.5,0.607954545454545
+"PREDICTS","HB1_2001__Aumann","HB1_2001__Aumann 1",132.673333333,-23.7238333333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0,0.175757575757576
+"PREDICTS","HP1_2004__Cleary","HP1_2004__Cleary 1",116.431,-0.9484333,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",208,0.423076923076923,0.562558982762779
+"PREDICTS","HP1_2004__Cleary","HP1_2004__Cleary 1",116.815,-1.115875,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",213,0.544600938967136,0.671555509063069
+"PREDICTS","HP1_2004__Cleary","HP1_2004__Cleary 1",116.954,-1.0435417,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",222,0.716216216216216,0.804014870422826
+"PREDICTS","HP1_2004__Cleary","HP1_2004__Cleary 1",116.9719,-1.1249972,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",222,0.887387387387387,0.897863772863773
+"PREDICTS","HP1_2007__MacSwiney","HP1_2007__MacSwiney 1",-88.89282,21.17215,"Vertebrates","Land_use","Pasture","Land_use_category",22,0.681818181818182,0.833331189394213
+"PREDICTS","HP1_2007__MacSwiney","HP1_2007__MacSwiney 1",-88.86632,20.9099,"Vertebrates","Land_use","Pasture","Land_use_category",22,0.590909090909091,0.721003654561721
+"PREDICTS","HP1_2007__MacSwiney","HP1_2007__MacSwiney 1",-88.67943,21.22755,"Vertebrates","Land_use","Pasture","Land_use_category",22,0.363636363636364,0.519442850824848
+"PREDICTS","HP1_2007__MacSwiney","HP1_2007__MacSwiney 1",-88.60595,21.29837,"Vertebrates","Land_use","Pasture","Land_use_category",22,0.590909090909091,0.697749638533372
+"PREDICTS","HP1_2007__Shahabuddin","HP1_2007__Shahabuddin 1",76.4034773333333,27.343278,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",67,0.164179104477612,0.395377569205292
+"PREDICTS","HP1_2007b_Barlow","HP1_2007b_Barlow 1",-52.594345,-0.8329,"Invertebrates","Land_use","Forest_plantation","Land_use_category",40,0,0.256800344460515
+"PREDICTS","HP1_2007b_Barlow","HP1_2007b_Barlow 1",-52.65879,-0.587,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",45,0,0.173527859762271
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 1",-52.594345,-0.8329,"Vertebrates","Land_use","Forest_plantation","Land_use_category",26,0,0.23895790200138
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 1",-52.65879,-0.587,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",26,0,0.431895003859175
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 2",-52.594345,-0.8329,"Invertebrates","Land_use","Forest_plantation","Land_use_category",6,0,0.0714285714285714
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 2",-52.65879,-0.587,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",6,0,0.166666666666667
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 3",-52.594345,-0.8329,"Invertebrates","Land_use","Forest_plantation","Land_use_category",19,0,0.214682614974415
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 3",-52.65879,-0.587,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",21,0,0.317414972135772
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 4",-52.594345,-0.8329,"Invertebrates","Land_use","Forest_plantation","Land_use_category",10,0,0.0985294117647059
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 4",-52.65879,-0.587,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",6,0,0.231800766283525
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 5",-52.594345,-0.8329,"Invertebrates","Land_use","Forest_plantation","Land_use_category",11,0,0.430774598176077
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 5",-52.65879,-0.587,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",14,0,0.319593242184028
+"PREDICTS","HP1_2007c_Barlow","HP1_2007c_Barlow 6",-52.65879,-0.587,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",35,0,0.273324009078796
+"PREDICTS","HP1_2008__Farwig","HP1_2008__Farwig 1",34.901424,0.220822,"Vertebrates","Land_use","Forest_plantation","Land_use_category",30,0.366666666666667,0.446966851088144
+"PREDICTS","HP1_2008__Farwig","HP1_2008__Farwig 1",34.8685626666667,0.350278333333333,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",72,0.361111111111111,0.596995512767481
+"PREDICTS","HP1_2008__Gomes","HP1_2008__Gomes 1",-83.916315,9.664255,"Vertebrates","Land_use","Pasture","Land_use_category",20,0.4,0.691319450334767
+"PREDICTS","HP1_2008__Gomes","HP1_2008__Gomes 1",-83.9031485,9.666173,"Vertebrates","Land_use","Pasture","Land_use_category",27,0.296296296296296,0.530795253261794
+"PREDICTS","HP1_2008__Gomes","HP1_2008__Gomes 1",-83.820937,9.543358,"Vertebrates","Land_use","Pasture","Land_use_category",48,0.416666666666667,0.65928630357202
+"PREDICTS","HP1_2008__Presley","HP1_2008__Presley 1",-54.9568489705882,-3.03267133823529,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",30,0.466666666666667,0.589137215052463
+"PREDICTS","HP1_2009__Horgan","HP1_2009__Horgan 1",-75.3831404761905,-11.1026697142857,"Invertebrates","Land_use","Forest_plantation","Land_use_category",6,0.833333333333333,0.857142857142857
+"PREDICTS","HP1_2009__Horgan","HP1_2009__Horgan 1",-75.38242265,-11.1042272,"Invertebrates","Land_use","Forest_plantation","Land_use_category",3,0,0.491720779220779
+"PREDICTS","HP1_2009__Horgan","HP1_2009__Horgan 1",-75.3820588636364,-11.103778,"Invertebrates","Land_use","Forest_plantation","Land_use_category",5,0,0.278339782201125
+"PREDICTS","HP1_2009__Horgan","HP1_2009__Horgan 1",-75.3813785,-11.0906125,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",8,0.625,0.692602040816326
+"PREDICTS","HP1_2009__Horgan","HP1_2009__Horgan 1",-75.3802368,-11.0937164,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",10,0.5,0.64906976744186
+"PREDICTS","HP1_2009__Horgan","HP1_2009__Horgan 1",-75.349961,-11.130663,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",18,0.722222222222222,0.835587002096436
+"PREDICTS","HP1_2009__Horgan","HP1_2009__Horgan 1",-75.401597,-11.098896,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",18,0.555555555555556,0.625426668200755
+"PREDICTS","HP1_2009__Kessler","HP1_2009__Kessler 2",120.034214447,-1.50310368422182,"Invertebrates","Land_use","Forest_plantation","Land_use_category",10,0.3,0.571625344352617
+"PREDICTS","HP1_2009__Kessler","HP1_2009__Kessler 3",120.034218,-1.50310063636364,"Invertebrates","Land_use","Forest_plantation","Land_use_category",12,0.0833333333333334,0.505619834710744
+"PREDICTS","HP1_2009__Kessler","HP1_2009__Kessler 5",120.034218,-1.50310063636364,"Vertebrates","Land_use","Forest_plantation","Land_use_category",62,0.274193548387097,0.567880311282071
+"PREDICTS","HP1_2010__Bicknell","HP1_2010__Bicknell 1",-58.9212053748,4.8503531689175,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.142857142857143,0.291647674038558
+"PREDICTS","HP1_2010__Bicknell","HP1_2010__Bicknell 1",-58.7192690068,4.618404415355,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.142857142857143,0.384699164077365
+"PREDICTS","HP1_2010__Bicknell","HP1_2010__Bicknell 2",-58.9212053748,4.8503531689175,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",20,0.15,0.332848241939452
+"PREDICTS","HP1_2010__Bicknell","HP1_2010__Bicknell 2",-58.7192690068,4.618404415355,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",20,0.25,0.553790122661538
+"PREDICTS","HW1_2006__Summerville","HW1_2006__Summerville 1",-93.71736,41.780555,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",125,0.584,0.759569660804899
+"PREDICTS","HW1_2006__Summerville","HW1_2006__Summerville 1",-93.36852,41.6065733333333,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",125,0.592,0.75746534826685
+"PREDICTS","HW1_2006__Summerville","HW1_2006__Summerville 1",-93.631945,41.5875,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",125,0.76,0.856927475525224
+"PREDICTS","HW1_2006__Summerville","HW1_2006__Summerville 1",-93.53056,41.65111,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",125,0.824,0.888934847721804
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.2927973913043,45.4377904347826,"Vertebrates","Land_use","Cropland","Land_use_category",48,0.5625,0.710430343576333
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.2903031818182,45.4380536363636,"Vertebrates","Land_use","Cropland","Land_use_category",14,0.5,0.601472632229735
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.2829713043478,45.4384352173913,"Vertebrates","Land_use","Cropland","Land_use_category",6,0.333333333333333,0.443010352545913
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.847,45.5,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.5
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.6566225,45.3969575,"Vertebrates","Land_use","Forest_plantation","Land_use_category",69,0.695652173913043,0.728942717150242
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.3462085714286,45.4308682142857,"Vertebrates","Land_use","Pasture","Land_use_category",68,0.441176470588235,0.545944206011471
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.873,45.49967,"Vertebrates","Land_use","Pasture","Land_use_category",8,0.875,0.875
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.872665,45.501085,"Vertebrates","Land_use","Pasture","Land_use_category",12,0.833333333333333,0.833333333333333
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.87233,45.5025,"Vertebrates","Land_use","Pasture","Land_use_category",5,0.8,0.8
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.8665,45.507,"Vertebrates","Land_use","Pasture","Land_use_category",2,0.5,0.978174603174603
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.6551666666667,45.3967233333333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",69,0.72463768115942,0.733118542700602
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.2973146666667,45.4400893333333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",14,0.214285714285714,0.319973552399896
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.2966588636364,45.4397618181818,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",46,0.239130434782609,0.398705083604904
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.2959725581395,45.4394190697674,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",9,0.333333333333333,0.478191189613834
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.02183,45.0415,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",69,0.840579710144927,0.840579710144927
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.7460957142857,45.5363114285714,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",2,0.5,0.988095238095238
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.7450225,45.54014875,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",4,0.75,0.996913580246914
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-92.743835,45.5418775,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",56,0.553571428571429,0.596068254639846
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.3531133333333,45.4243333333333,"Vertebrates","Land_use","Urban","Land_use_category",67,0.701492537313433,0.718914582934542
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.020739375,45.050656875,"Vertebrates","Land_use","Urban","Land_use_category",24,0.583333333333333,0.601747047244094
+"PREDICTS","HW1_2007__Chapman","HW1_2007__Chapman 1",-93.0195294117647,45.0516670588235,"Vertebrates","Land_use","Urban","Land_use_category",40,0.675,0.774035019368264
+"PREDICTS","HW1_2008__Cagle","HW1_2008__Cagle 1",-89.50342,41.639715,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0,0.0740740740740741
+"PREDICTS","HW1_2008__Cagle","HW1_2008__Cagle 1",-89.32373,41.88555,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0.666666666666667,0.925925925925926
+"PREDICTS","HW1_2008__Cagle","HW1_2008__Cagle 1",-88.60554,41.0849,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.5040873016,-41.9149206349143,"Vertebrates","Land_use","Forest_plantation","Land_use_category",23,0.652173913043478,0.727586184463458
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.3251851851667,-42.1718518518667,"Vertebrates","Land_use","Forest_plantation","Land_use_category",23,0.652173913043478,0.725910080875946
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.2384523809714,-40.4764682539857,"Vertebrates","Land_use","Forest_plantation","Land_use_category",23,0.478260869565217,0.546204353294708
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.1822222222,-41.2672222222,"Vertebrates","Land_use","Forest_plantation","Land_use_category",23,0.826086956521739,0.837906289573686
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.1772222222,-41.0027777778,"Vertebrates","Land_use","Forest_plantation","Land_use_category",23,0.782608695652174,0.782608695652174
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.13706624445,-39.95233833335,"Vertebrates","Land_use","Forest_plantation","Land_use_category",23,0.478260869565217,0.616048610838617
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.119374999975,-40.10555555555,"Vertebrates","Land_use","Forest_plantation","Land_use_category",23,0.652173913043478,0.695519649121628
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.5110416666625,-41.9166319444375,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",23,0.521739130434783,0.647176811873072
+"PREDICTS","HW1_2008__Lantschner","HW1_2008__Lantschner 1",-71.2207407407333,-40.4447222222333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",23,0.521739130434783,0.609040611672742
+"PREDICTS","HW1_2012__Lantschner","HW1_2012__Lantschner 1",-71.2307189486207,-40.4603203893103,"Vertebrates","Land_use","Forest_plantation","Land_use_category",7,0.142857142857143,0.142857142857143
+"PREDICTS","HW1_2012__Lantschner","HW1_2012__Lantschner 1",-71.1613506775,-40.535164653,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0,0.0918367346938513
+"PREDICTS","HW1_2012__Lantschner","HW1_2012__Lantschner 1",-71.221983081,-40.465147544,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",7,0,0.00119047619047852
+"PREDICTS","HW1_2012__Pelegrin","HW1_2012__Pelegrin 1",-65.4855815,-31.358392,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",8,0.125,0.240450382030747
+"PREDICTS","HZ1_2011__Herrera","HZ1_2011__Herrera 1",47.4238888888889,-21.262962962963,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",4,0.25,0.458591549295775
+"PREDICTS","HZ1_2012__Kutt","HZ1_2012__Kutt 1",146.13214,-20.5440608333333,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",74,0.0675675675675675,0.304886477518924
+"PREDICTS","HZ1_2013__Garmendia","HZ1_2013__Garmendia 1",-90.902958,16.1303015,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",17,0.588235294117647,0.602941176470588
+"PREDICTS","HZ1_2013__Garmendia","HZ1_2013__Garmendia 1",-90.869547685,16.1667311833333,"Vertebrates","Land_use","Pasture","Land_use_category",17,0.294117647058823,0.441176470588235
+"PREDICTS","HZ1_2013__Garmendia","HZ1_2013__Garmendia 1",-90.842419375,16.13977475,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",17,0.176470588235294,0.349264705882353
+"PREDICTS","KS1_2005__Pons","KS1_2005__Pons 1",46.8833333333333,-16.15,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",19,0.842105263157895,0.873684210526316
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.252386537596,38.7384531428571,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.788888888888889
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.2505180506679,38.740937125,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",11,0.909090909090909,0.977272727272727
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.244797388109,38.7322515555556,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.986666666666667
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.2401815277335,38.7399964,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",6,0.166666666666667,0.631849623536903
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.2397243801399,38.7430511666667,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",10,0.5,0.5
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.2334034218885,38.7246622307692,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",11,0.454545454545455,0.543497609110257
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.2319790335529,38.7259384,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",5,0.8,0.992307692307692
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.2244042145497,38.7228562727273,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",4,0,0.308509724760922
+"PREDICTS","KS1_2006__Borges","KS1_2006__Borges 1",-27.2236372065188,38.7219105,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",2,0.5,0.98
+"PREDICTS","KS1_2012__Pethiyagoda","KS1_2012__Pethiyagoda 1",80.6666666666667,6.83333333333333,"Vertebrates","Land_use","Cropland","Land_use_category",13,0.538461538461538,0.856398729215426
+"PREDICTS","KS1_2012__Pethiyagoda","KS1_2012__Pethiyagoda 1",80.6666666666667,6.83333333333333,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",13,0.153846153846154,0.257410992031719
+"PREDICTS","LK1_2008__Henschel","LK1_2008__Henschel 1",12.1728157575758,-1.21686696969697,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",20,0.4,0.677232984991938
+"PREDICTS","MG1_2005__Vanbergen","MG1_2005__Vanbergen 1",-2.810504,57.14396,"Invertebrates","Land_use","Cropland","Land_use_category",8,0.5,0.5
+"PREDICTS","MG1_2005__Vanbergen","MG1_2005__Vanbergen 1",-2.752446,57.047952,"Invertebrates","Land_use","Forest_plantation","Land_use_category",8,0.375,0.458333333333333
+"PREDICTS","MG1_2005__Vanbergen","MG1_2005__Vanbergen 1",-2.8412975,57.049293,"Invertebrates","Land_use","Pasture","Land_use_category",8,0.25,0.25
+"PREDICTS","MG1_2005__Vanbergen","MG1_2005__Vanbergen 1",-2.690494,57.015483,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",8,0.25,0.291666666666667
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 2",23.34887525,46.55400525,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",19,0.263157894736842,0.377631578947368
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 2",23.34849275,46.5514095,"Invertebrates","Land_use","Pasture","Land_use_category",19,0.526315789473684,0.617481203007519
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 2",23.349195,46.5527915,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",19,0.315789473684211,0.427318295739348
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 3",23.3483,46.554028,"Invertebrates","Land_use","Pasture","Land_use_category",51,0.96078431372549,0.972549019607843
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 4",23.34887525,46.55400525,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",84,0.583333333333333,0.733211054889792
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 4",23.34849275,46.5514095,"Plants","Land_use","Pasture","Land_use_category",84,0.797619047619048,0.85371681367922
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 4",23.348822,46.551459,"Plants","Land_use","Young secondary vegetation","Land_use_category",51,0.843137254901961,0.851540616246499
+"PREDICTS","MG1_2006__Baur","MG1_2006__Baur 4",23.349195,46.5527915,"Plants","Land_use","Young secondary vegetation","Land_use_category",33,0.727272727272727,0.842614111035164
+"PREDICTS","MG1_2008__Paritsis","MG1_2008__Paritsis 3",-71.5323725,-40.960477,"Vertebrates","Land_use","Forest_plantation","Land_use_category",17,0.352941176470588,0.574806385203102
+"PREDICTS","MG1_2008__Paritsis","MG1_2008__Paritsis 3",-71.4366245,-41.081162,"Vertebrates","Land_use","Forest_plantation","Land_use_category",17,0.470588235294118,0.785975415660778
+"PREDICTS","MG1_2008__Paritsis","MG1_2008__Paritsis 3",-71.437104,-41.077802,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",17,0.235294117647059,0.436194239819411
+"PREDICTS","MJ1_2009__Lehouck","MJ1_2009__Lehouck 1",38.3460020416667,-3.46174476337083,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",14,0.357142857142857,0.738650926788191
+"PREDICTS","MJ1_2009__Lehouck","MJ1_2009__Lehouck 2",38.3438989097727,-3.46804390374545,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0,0.697979797979798
+"PREDICTS","MJ1_2009__Lehouck","MJ1_2009__Lehouck 3",38.3463952333333,-3.46437666666667,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",22,0.136363636363636,0.37698342707998
+"PREDICTS","MJ1_2009__Lehouck","MJ1_2009__Lehouck 4",38.3468661923077,-3.46141769230769,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",21,0.19047619047619,0.327524937521667
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.5664,13.2368,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.818181818181818,0.818181818181818
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.46095,12.96975,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.636363636363636,0.656212887982037
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.4344,13.1699,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.909090909090909,0.999278499278499
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.32575,12.26195,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.2543,12.4635,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.727272727272727,0.769335447474633
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.19,12.79,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.909090909090909,0.999278499278499
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-8.75762,12.27075,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.818181818181818,0.818181818181818
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-7.9449995,10.4846185,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-7.77574,10.49712,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-5.59504353846154,10.7946104615385,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.363636363636364,0.449564267646536
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.651144,12.912757,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.5664,13.2368,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.909090909090909,0.999278499278499
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.331494,12.2566774,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.727272727272727,0.789041874823146
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.27865,12.491,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.818181818181818,0.824423866531789
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.19,12.79,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.013,12.318,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.909090909090909,0.94819565625125
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-9.9245,12.5205,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.727272727272727,0.78580410333885
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-9.4667,12.7109,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.909090909090909,0.9395235410292
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-8.760211,12.271652,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.545454545454545,0.606965357697275
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-6.109564,10.87131,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.818181818181818,0.818181818181818
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-5.667,10.8227,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.4839,12.9849,"Vertebrates","Land_use","Urban","Land_use_category",11,0.909090909090909,0.973541549200275
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.328443,12.257256,"Vertebrates","Land_use","Urban","Land_use_category",11,0.818181818181818,0.818181818181818
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-10.2608,12.4737,"Vertebrates","Land_use","Urban","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-8.775296,12.300185,"Vertebrates","Land_use","Urban","Land_use_category",11,0.909090909090909,0.909090909090909
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-7.946,10.48321,"Vertebrates","Land_use","Urban","Land_use_category",11,0.909090909090909,0.999278499278499
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-6.109115,10.862982,"Vertebrates","Land_use","Urban","Land_use_category",11,0.909090909090909,0.999278499278499
+"PREDICTS","MJ1_2011__Granjon","MJ1_2011__Granjon 1",-5.62725,10.8102,"Vertebrates","Land_use","Urban","Land_use_category",11,0.909090909090909,0.999278499278499
+"PREDICTS","MJ1_2012__Malonza","MJ1_2012__Malonza 1",38.339759,-3.80303,"Vertebrates","Land_use","Forest_plantation","Land_use_category",4,0.5,0.5
+"PREDICTS","MJ1_2012__Malonza","MJ1_2012__Malonza 1",38.3890986666667,-3.36711533333333,"Vertebrates","Land_use","Forest_plantation","Land_use_category",4,0.25,0.25
+"PREDICTS","MJ1_2012__Malonza","MJ1_2012__Malonza 1",38.589247,-3.505323,"Vertebrates","Land_use","Forest_plantation","Land_use_category",4,0.75,0.75
+"PREDICTS","MJ1_2013__Adum","MJ1_2013__Adum 1",-2.81134975,6.5819465,"Vertebrates","Land_use","Forest_plantation","Land_use_category",12,0.333333333333333,0.573470356167875
+"PREDICTS","MJ1_2013__Adum","MJ1_2013__Adum 1",-2.69614508333333,6.231333,"Vertebrates","Land_use","Forest_plantation","Land_use_category",12,0.0833333333333334,0.295444348862719
+"PREDICTS","MJ1_2013__Adum","MJ1_2013__Adum 1",-2.45034914,6.1144645,"Vertebrates","Land_use","Forest_plantation","Land_use_category",11,0.181818181818182,0.44831522703722
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2352177083333,38.673690625,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",22,0.318181818181818,0.449478974583564
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2350070261438,38.6735501633987,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",100,0.3,0.468270651320649
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2348513888889,38.6729149305556,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",54,0.277777777777778,0.433192956026138
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2348009259259,38.6730159259259,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",49,0.326530612244898,0.478521381737065
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2392246296296,38.6806396296296,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",35,0.171428571428571,0.469525299096504
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2392139846743,38.6806506704981,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",9,0.111111111111111,0.377532395201568
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2391561111111,38.6806386111111,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",33,0.212121212121212,0.459447539827605
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2391526881721,38.680651702509,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",27,0.259259259259259,0.511902558000883
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2391390681004,38.6805882616487,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",113,0.274336283185841,0.542163472260788
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2391259259259,38.6805972222222,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",6,0.166666666666667,0.487221698360312
+"PREDICTS","SC1_2002__Summerville","SC1_2002__Summerville 1",-83.2390079501916,38.6804098659004,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",2,0,0.0483870967741935
+"PREDICTS","SC1_2005__Marsh","SC1_2005__Marsh 1",43.3417989795918,-11.7429840136054,"Vertebrates","Land_use","Forest_plantation","Land_use_category",9,0,0.163722799061145
+"PREDICTS","SC1_2005__Marsh","SC1_2005__Marsh 1",43.342675,-11.471125,"Vertebrates","Land_use","Forest_plantation","Land_use_category",15,0.333333333333333,0.333333333333333
+"PREDICTS","SC1_2005__Marsh","SC1_2005__Marsh 1",43.343393,-11.7443093333333,"Vertebrates","Land_use","Forest_plantation","Land_use_category",5,0,0.41007619047619
+"PREDICTS","SC1_2005__Marsh","SC1_2005__Marsh 1",43.42,-11.85,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",15,0.666666666666667,0.714236458680903
+"PREDICTS","SC1_2005__Marsh","SC1_2005__Marsh 1",43.3118973958333,-11.7234369791667,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",15,0.266666666666667,0.501516983253094
+"PREDICTS","SC1_2005__Marsh","SC1_2005__Marsh 1",43.3477166666666,-11.4769166666667,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",15,0.6,0.667389611834056
+"PREDICTS","SC1_2005__Marsh","SC1_2005__Marsh 1",43.3406583333333,-11.7618520833333,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",15,0.2,0.56354206545727
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",118.23,5.28,"Invertebrates","Land_use","Forest_plantation","Land_use_category",31,0.967741935483871,0.975186104218362
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",117.26,5.64,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",31,0.645161290322581,0.686600496277916
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",117.39,5.69,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",31,0.612903225806452,0.698737410596993
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",117.64,5.72,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",31,0.580645161290323,0.640694789081886
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",117.91,5.85666666666667,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",31,0.516129032258065,0.633071408877861
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",117.94,4.37,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",31,0.387096774193548,0.479942100909843
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",118.28,5.52,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",31,0.645161290322581,0.703225806451613
+"PREDICTS","SC1_2006__Benedick","SC1_2006__Benedick 1",118.7,5.18,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",31,0.451612903225806,0.607647058823529
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5030475,8.67649571428571,"Plants","Land_use","Pasture","Land_use_category",2,0.5,0.875
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5029185185185,8.67617148148148,"Plants","Land_use","Pasture","Land_use_category",15,0.933333333333333,0.933333333333333
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5029048148148,8.67636851851852,"Plants","Land_use","Pasture","Land_use_category",2,0.5,0.9
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5028113793103,8.6768875862069,"Plants","Land_use","Pasture","Land_use_category",5,0.6,0.744827586206896
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5027653846154,8.67602692307692,"Plants","Land_use","Pasture","Land_use_category",4,0.75,0.916666666666667
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5026128571429,8.67661071428572,"Plants","Land_use","Pasture","Land_use_category",2,0.5,0.892857142857143
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5022846153846,8.67623730769231,"Plants","Land_use","Pasture","Land_use_category",2,0.5,0.5
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.3235342857143,8.48575428571429,"Plants","Land_use","Pasture","Land_use_category",3,0.666666666666667,0.944444444444444
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.3182125,8.48438125,"Plants","Land_use","Pasture","Land_use_category",29,0.931034482758621,0.954022988505747
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.0057175,8.831715,"Plants","Land_use","Pasture","Land_use_category",29,0.96551724137931,0.96551724137931
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-82.9960133333333,8.82755333333333,"Plants","Land_use","Pasture","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5533388235294,8.67535235294118,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",8,0.375,0.646358543417367
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5532644444445,8.67566611111111,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",4,0.5,0.771604938271605
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5532088888889,8.67572166666667,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",8,0.625,0.713541666666667
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5527768421053,8.67594684210526,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",8,0.875,0.875
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5502138888889,8.67115777777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",4,0.75,0.75
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.4062265217391,8.50421913043478,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.714285714285714,0.939799331103679
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.4060960869565,8.50413217391304,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0.333333333333333,0.5175983436853
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.4052957142857,8.50314476190476,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",5,0.6,0.677248677248677
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.4023641666667,8.49979875,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",2,0.5,0.833333333333333
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.4016843478261,8.49905086956522,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",13,0.538461538461538,0.787374581939799
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.5309825,8.68339,"Plants","Land_use","Secondary vegetation","Land_use_category",29,0.827586206896552,0.944003147235906
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.52512,8.6841,"Plants","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.3041266666667,8.49442666666667,"Plants","Land_use","Secondary vegetation","Land_use_category",2,0.5,0.75
+"PREDICTS","SC1_2006__Mayfield","SC1_2006__Mayfield 1",-83.27998,8.46927,"Plants","Land_use","Secondary vegetation","Land_use_category",29,0.96551724137931,0.994252873563218
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0790050099148,18.5808140564455,"Vertebrates","Land_use","Pasture","Land_use_category",7,0.285714285714286,0.472270264037819
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0788900597394,18.5808525529691,"Vertebrates","Land_use","Pasture","Land_use_category",32,0.59375,0.832377264095937
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0786757417463,18.5809886091585,"Vertebrates","Land_use","Pasture","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0797125064425,18.5796897182334,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",23,0.217391304347826,0.545868578683848
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0795943430805,18.5797213800153,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",10,0.1,0.212197200243457
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0795072462625,18.5798316475335,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",4,0.25,0.422316384180791
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0794782754433,18.579751911478,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",2,0,0.0089285714285714
+"PREDICTS","SC1_2006__UrbinaCardona","SC1_2006__UrbinaCardona 1",-95.0793860820488,18.579842151485,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",2,0.5,0.770491803278688
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-31.2052025505782,39.4242938043216,"Invertebrates","Land_use","Pasture","Land_use_category",8,0.875,0.998670212765957
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-31.2047595046308,39.4259219360619,"Invertebrates","Land_use","Pasture","Land_use_category",97,0.680412371134021,0.742220248380785
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-31.2045037678812,39.4219829817059,"Invertebrates","Land_use","Pasture","Land_use_category",13,0.461538461538462,0.743589505174452
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-28.6952364249643,38.5631734649461,"Invertebrates","Land_use","Pasture","Land_use_category",69,0.594202898550725,0.695275981285716
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-28.6941630137024,38.5641353578802,"Invertebrates","Land_use","Pasture","Land_use_category",37,0.918918918918919,0.961939532301112
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-28.6907511906184,38.5607961025092,"Invertebrates","Land_use","Pasture","Land_use_category",12,0.5,0.600846132524258
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.2330213064444,38.7204147889322,"Invertebrates","Land_use","Pasture","Land_use_category",23,0.304347826086957,0.576798882246202
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.2328683461355,38.720980495623,"Invertebrates","Land_use","Pasture","Land_use_category",48,0.625,0.742832844492219
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.2259799949843,38.7255121912323,"Invertebrates","Land_use","Pasture","Land_use_category",30,0.366666666666667,0.594204074462747
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.224619592733,38.7209421284368,"Invertebrates","Land_use","Pasture","Land_use_category",10,0.9,0.997605432472443
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.2244054365603,38.724958585897,"Invertebrates","Land_use","Pasture","Land_use_category",2,0.5,0.5
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.2191944342346,38.7223224716525,"Invertebrates","Land_use","Pasture","Land_use_category",4,0.5,0.848092346986641
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-25.1719311795524,36.9990865685744,"Invertebrates","Land_use","Pasture","Land_use_category",89,0.898876404494382,0.898876404494382
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-25.1091021721171,36.9736916365247,"Invertebrates","Land_use","Pasture","Land_use_category",29,0.758620689655172,0.787121274184899
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-31.20581638306,39.4413833258429,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",118,0.796610169491525,0.846744300943086
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-28.677101194471,38.5715595155585,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",27,0.814814814814815,0.867933811863155
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-28.674964308271,38.5735387267626,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",54,0.888888888888889,0.922662935564762
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-28.674351950609,38.5708492416486,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",35,0.628571428571429,0.704917989669911
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-28.6708172085007,38.5699360323358,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",2,0.5,0.741011158561785
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.2222864979723,38.6918240363053,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",82,0.878048780487805,0.900183998553715
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-27.2,38.7,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",36,0.916666666666667,0.950677625483846
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-25.077268469136,36.9677847078577,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.333333333333333,0.655950569150179
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-25.0771168695822,36.9671233547749,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",15,0.733333333333333,0.839092662796389
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-25.0769928335837,36.9665822477072,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",6,0.833333333333333,0.931707350825438
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-25.0759102878067,36.9658559943906,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",88,0.727272727272727,0.750269308967466
+"PREDICTS","SC1_2011__Meijer","SC1_2011__Meijer 1",-25.0758945063859,36.9653875126546,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",6,0.833333333333333,0.995833333333333
+"PREDICTS","SC1_2012__GendreauBerthiaume","SC1_2012__GendreauBerthiaume 1",-79.1563370370371,47.2740166666666,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",2,0.5,0.5
+"PREDICTS","SC1_2012__GendreauBerthiaume","SC1_2012__GendreauBerthiaume 1",-79.1515231481482,47.2704398148148,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",3,0,0.153846153846154
+"PREDICTS","SC1_2013__Fernandez","SC1_2013__Fernandez 1",-70.5194444444444,-33.3465925925926,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",5,0.6,0.842857142857143
+"PREDICTS","SC1_2014__Fowler","SC1_2014__Fowler 1",-1.70618697917,52.5874976541,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",40,0.6,0.680390947639567
+"PREDICTS","SC1_2014__Fowler","SC1_2014__Fowler 1",-1.85733204869889,52.4888650109222,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",38,0.184210526315789,0.440600030239071
+"PREDICTS","SC1_2014__Fowler","SC1_2014__Fowler 1",-1.854926925829,52.47820187943,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",2,0,0.25
+"PREDICTS","SC1_2014__Fowler","SC1_2014__Fowler 1",-1.87903700938,52.5235374327909,"Invertebrates","Land_use","Urban","Land_use_category",22,0.0909090909090909,0.284248234612729
+"PREDICTS","SC1_2014__Fowler","SC1_2014__Fowler 1",-1.87268060353917,52.5238406971167,"Invertebrates","Land_use","Urban","Land_use_category",18,0.277777777777778,0.542824074074074
+"PREDICTS","SC1_2014__Kurz","SC1_2014__Kurz 1",-83.9930444444445,10.4195935185185,"Vertebrates","Land_use","Forest_plantation","Land_use_category",40,0.575,0.728912651561791
+"PREDICTS","SC1_2014__Kurz","SC1_2014__Kurz 1",-83.9277212962963,10.2830092592593,"Vertebrates","Land_use","Forest_plantation","Land_use_category",40,0.6,0.667278251262626
+"PREDICTS","SC1_2014__Kurz","SC1_2014__Kurz 1",-83.9904659722222,10.4207243055556,"Vertebrates","Land_use","Pasture","Land_use_category",40,0.725,0.778975627413127
+"PREDICTS","SC1_2014__Raub","SC1_2014__Raub 1",-48.6791666666667,-25.3055555555556,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",49,0.551020408163265,0.687912286126572
+"PREDICTS","SC1_2014__Raub","SC1_2014__Raub 1",-48.5083333333333,-25.2583333333333,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",49,0.448979591836735,0.623749261609406
+"PREDICTS","SC1_2014__Raub","SC1_2014__Raub 1",-48.6791666666667,-25.3055555555556,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",49,0.428571428571429,0.619511882675148
+"PREDICTS","SC1_2014__Raub","SC1_2014__Raub 1",-48.6791666666667,-25.3055555555556,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",49,0.693877551020408,0.827655490767736
+"PREDICTS","SC1_2014__Raub","SC1_2014__Raub 1",-48.5083333333333,-25.2583333333333,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",49,0.693877551020408,0.790850340136054
+"PREDICTS","SC2_2009__Louhaichi","SC2_2009__Louhaichi 1",37.5161111111,35.8052777778,"Plants","Land_use","Pasture","Land_use_category",7,0.857142857142857,0.934714285714286
+"PREDICTS","SC2_2009__Louhaichi","SC2_2009__Louhaichi 1",37.5797222222,35.9355555556,"Plants","Land_use","Pasture","Land_use_category",7,0.857142857142857,0.934714285714286
+"PREDICTS","SC2_2009__Louhaichi","SC2_2009__Louhaichi 2",37.5161111111,35.8052777778,"Plants","Land_use","Pasture","Land_use_category",2,0.5,0.956634544106746
+"PREDICTS","SC2_2012__Santana","SC2_2012__Santana 1",-7.9120909944,37.224028942,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",52,0.326923076923077,0.411744648324222
+"PREDICTS","SC2_2012__Verdasca","SC2_2012__Verdasca 1",-7.912092995768,37.22403256822,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",35,0.228571428571429,0.303275451590105
+"PREDICTS","SE1_2004__Gutierrez","SE1_2004__Gutierrez 1",-73.1532222222222,6.00902777777778,"Vertebrates","Land_use","Forest_plantation","Land_use_category",5,0.2,0.768771929824561
+"PREDICTS","SE1_2004__Gutierrez","SE1_2004__Gutierrez 2",-73.1532222222222,6.00902777777778,"Vertebrates","Land_use","Forest_plantation","Land_use_category",6,0.166666666666667,0.288972588407617
+"PREDICTS","SE1_2007__SmithPardo","SE1_2007__SmithPardo 1",-75.1063888889,6.768194444445,"Invertebrates","Land_use","Pasture","Land_use_category",15,0.6,0.824346101259965
+"PREDICTS","SE1_2007__SmithPardo","SE1_2007__SmithPardo 1",-75.0530555556,6.90027777778,"Invertebrates","Land_use","Pasture","Land_use_category",15,0.666666666666667,0.82050613154961
+"PREDICTS","SE1_2007__SmithPardo","SE1_2007__SmithPardo 1",-75.10828703705,6.77925925925833,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",15,0.4,0.678686582809224
+"PREDICTS","SE1_2012__Cabra","SE1_2012__Cabra 1",-76.4922871151,3.26728071624,"Invertebrates","Land_use","Pasture","Land_use_category",39,0.846153846153846,0.868329868329868
+"PREDICTS","SE1_2012__Cabra","SE1_2012__Cabra 1",-76.324603724,3.64593623991,"Invertebrates","Land_use","Pasture","Land_use_category",39,0.846153846153846,0.867216117216117
+"PREDICTS","SE1_2012__Cabra","SE1_2012__Cabra 1",-76.31724848745,3.8470087334,"Invertebrates","Land_use","Pasture","Land_use_category",39,0.743589743589744,0.810286935286935
+"PREDICTS","SE1_2012__Cabra","SE1_2012__Cabra 1",-75.990556,4.436667,"Invertebrates","Land_use","Pasture","Land_use_category",39,0.871794871794872,0.907570207570208
+"PREDICTS","SE1_2012__Cabra","SE1_2012__Cabra 1",-75.889746173275,4.892787339995,"Invertebrates","Land_use","Pasture","Land_use_category",14,0.785714285714286,0.8375
+"PREDICTS","SE1_2012__Cabra","SE1_2012__Cabra 1",-75.88919967724,4.885748543992,"Invertebrates","Land_use","Pasture","Land_use_category",25,0.6,0.763822393822394
+"PREDICTS","SE2_2009__Craig","SE2_2009__Craig 1",116.11322980031,-32.6287096936988,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",2,0.5,0.666666666666667
+"PREDICTS","SE2_2010__Gaigher","SE2_2010__Gaigher 1",18.77917025,-33.97323275,"Invertebrates","Land_use","Forest_plantation","Land_use_category",9,0.333333333333333,0.585968081903041
+"PREDICTS","SE2_2010__Gaigher","SE2_2010__Gaigher 1",18.7973043333333,-33.9797276666667,"Invertebrates","Land_use","Forest_plantation","Land_use_category",2,0,0.265765765765766
+"PREDICTS","SE2_2010__Gaigher","SE2_2010__Gaigher 1",18.86404,-33.847836,"Invertebrates","Land_use","Forest_plantation","Land_use_category",14,0.571428571428571,0.71090200358493
+"PREDICTS","SE2_2010__McCarthy","SE2_2010__McCarthy 1",78.9825098484849,41.8473787878788,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",8,0.125,0.389583963945784
+"PREDICTS","SE2_2012__Craig","SE2_2012__Craig 1",116.095544418592,-32.6061216977885,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",5,0.4,0.497435897435897
+"PREDICTS","SE2_2012__Craig","SE2_2012__Craig 1",116.096083045578,-32.6054745226889,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",4,0.25,0.580188679245283
+"PREDICTS","SE2_2012__Craig","SE2_2012__Craig 1",116.096270358723,-32.6056397812878,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",6,0,0.311113800801528
+"PREDICTS","SE2_2012__Craig","SE2_2012__Craig 1",116.13818860312,-32.2932455023243,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",15,0.266666666666667,0.511999702065062
+"PREDICTS","SE2_2014a_Craig","SE2_2014a_Craig 1",116.109672982338,-32.6121336717986,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",5,0.4,0.566666666666667
+"PREDICTS","SE2_2014b_Craig","SE2_2014b_Craig 1",116.13734138062,-32.6164794155547,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",12,0.333333333333333,0.802113156856946
+"PREDICTS","SE2_2014b_Craig","SE2_2014b_Craig 1",116.137871734084,-32.6181786139658,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",9,0.777777777777778,0.863247863247863
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.734204084541,6.3174943236715,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",3,0.666666666666667,0.958333333333333
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.734211972222,6.31747032828283,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",8,0.875,0.875
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.73421930787,6.31748333333333,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",4,0.75,0.838541666666667
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.734221875817,6.31753447712418,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",2,0.5,0.8125
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.700606746032,6.28251150793651,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",7,0.714285714285714,0.714285714285714
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.700645833333,6.28264814814815,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",9,0.555555555555556,0.681432347395746
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.700686111111,6.28226805555556,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",2,0.5,0.8125
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.724127631579,6.29945364619883,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",4,0.75,0.9609375
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.724729305555,6.30027929722222,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",10,0.8,0.893292096219931
+"PREDICTS","SH1_2001__Floren","SH1_2001__Floren 1",116.725405701754,6.30125876315789,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",2,0.5,0.8125
+"PREDICTS","SH1_2002__Bonham","SH1_2002__Bonham 1",144.934590648549,-40.9320370136538,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",10,0.9,0.996875
+"PREDICTS","SH1_2002__Bonham","SH1_2002__Bonham 1",145.212439158026,-41.0889098462725,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",10,0.8,0.8
+"PREDICTS","SH1_2002__Bonham","SH1_2002__Bonham 1",145.62119947164,-41.2009072784426,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",10,0.6,0.672173913043478
+"PREDICTS","SH1_2002__Bonham","SH1_2002__Bonham 1",146.058374445631,-41.1709941436492,"Invertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",10,0.9,0.9
+"PREDICTS","SH1_2005__OConnor","SH1_2005__OConnor 1",29.476017,-29.97575,"Plants","Land_use","Pasture","Land_use_category",107,0.523364485981308,0.670275130134221
+"PREDICTS","SH1_2005__OConnor","SH1_2005__OConnor 1",29.5688225,-29.8074888333333,"Plants","Land_use","Pasture","Land_use_category",24,0,0.320120213821276
+"PREDICTS","SH1_2005__OConnor","SH1_2005__OConnor 1",29.5733936,-29.8048366,"Plants","Land_use","Pasture","Land_use_category",12,0,0.359210239651416
+"PREDICTS","SH1_2005__OConnor","SH1_2005__OConnor 1",29.5749436,-29.80796,"Plants","Land_use","Pasture","Land_use_category",13,0,0.311941391941392
+"PREDICTS","SH1_2005__OConnor","SH1_2005__OConnor 1",29.58218775,-29.8047625,"Plants","Land_use","Pasture","Land_use_category",58,0.793103448275862,0.890463246686964
+"PREDICTS","SH1_2005__OConnor","SH1_2005__OConnor 1",29.434683,-29.698017,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",107,0.775700934579439,0.848874090226529
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.7375,41.1377777777778,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",16,0.375,0.874172070028344
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-5.46611111111111,41.1316666666667,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",16,0.8125,0.914247840273877
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-5.46611111111111,41.4522222222222,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",16,0.75,0.894585289647289
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-5.32277777777778,42.5125,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",16,0.5625,0.785452562449604
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-4.19589930555556,40.4259305555556,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",2,0.5,0.847348484848485
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-4.19301690821256,40.4294939613527,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",2,0,0.954921945852534
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-4.1561537037037,40.4769092592593,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",3,0.666666666666667,0.746666666666667
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-4.156140625,40.4761579861111,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",2,0.5,0.70364010989011
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.84088888888889,40.7378888888889,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",16,0.125,0.596899188506548
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.69672222222222,40.5406388888889,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",16,0.4375,0.725432998819347
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.61840561529271,40.8127117682198,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",4,0.5,0.97486862317083
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.61815248842593,40.8129615162037,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",2,0.5,0.9
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.61804269005848,40.8127894736842,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",9,0.111111111111111,0.884774465832026
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.2511,40.4237333333334,"Plants","Land_use","Intermediate secondary vegetation","Land_use_category",16,0.8125,0.993628703462248
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.91047222222222,40.62925,"Plants","Land_use","Mature secondary vegetation","Land_use_category",16,0.1875,0.457314284860889
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-8.49019444444444,42.3341111111111,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.737914512671794
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-8.38513888888889,43.1440833333333,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.875,0.875
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-8.38497222222222,41.9193055555556,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.798417509272819
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-8.29325,42.5762222222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.75,0.829237429237429
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-8.16363888888888,41.7827916666667,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.75,0.817488465293525
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-8.13161111111111,41.9266666666667,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.812923954921831
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.8085625,41.9507847222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",5,0.6,0.6
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.79881349206349,41.9416785714286,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.545454545454545,0.76407127853283
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.75433333333333,42.7157222222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.875,0.928503148897886
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.65453888888889,42.9235111111111,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.821738536445885
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.62186666666667,41.9631222222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.793369358088232
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.60619444444444,42.7860555555556,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.828165159815356
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.58088988095238,42.2662688492063,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",15,0.466666666666667,0.709268155511294
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.57358333333333,40.4258333333333,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.636363636363636,0.802320361784114
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.55477777777778,43.41575,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.875,0.934151785714286
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.48171296296296,42.7671365740741,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.375,0.709405664753894
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.48136111111111,41.8838888888889,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5,0.810331129209396
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.47836111111111,42.0099444444444,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5625,0.811352868691406
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.381,42.5129444444444,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.798561733101207
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.32413888888889,42.3635277777777,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.755536547553853
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.28594444444444,41.9802222222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.73747577062539
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.23319444444444,42.1415277777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.721587960560457
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.22166666666667,42.9788333333333,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.833300000730618
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.18197222222222,42.2397777777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.855027144803828
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.06333333333333,42.1567777777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.4375,0.648851243934377
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.04511111111111,42.3546111111111,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5625,0.726059612304957
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.03796296296296,42.0632962962963,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.778749573168261
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.02394444444444,42.2551944444444,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5,0.6438751087605
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.01856234567901,42.7320962962963,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",5,0.6,0.860253156751858
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.01818024691358,42.7354913580247,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.571428571428571,0.632655207714154
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.01765519323671,42.7371763285024,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",2,0,0.986573151370027
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-7.01633333333333,42.7369571256039,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",2,0.5,0.5
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.89202777777778,42.2123055555556,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.872131158517153
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.88547222222222,42.0455833333333,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.791078317949829
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.85333333333333,42.9905277777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.738101608546505
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.67447916666667,42.1157847222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.4375,0.732923976301849
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.67413888888889,42.5367916666667,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.4375,0.71759934223134
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.65078703703704,42.8334722222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",13,0.461538461538462,0.651908935513905
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.64879761904762,42.8398650793651,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0.666666666666667,0.933333333333333
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.64775,42.2660833333333,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.715511455327889
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.63252777777778,42.6710277777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5,0.765488595804133
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.60300793650794,42.9855357142857,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.758262826285249
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.56811111111111,42.4445277777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.724284193797285
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.52836111111111,42.2185555555556,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.88147810878426
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.51311111111111,42.6054444444444,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.806280073450546
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-6.05044444444444,43.1077222222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.833952183648786
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-4.06733333333333,40.8260833333333,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5625,0.715060266356806
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.95133333333333,41.0072777777778,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5625,0.698992270867146
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.82905555555556,40.7379722222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5625,0.761670757382761
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.77233333333333,40.9545555555556,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.5,0.746253141609337
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.59493113425926,41.0458819444444,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.375,0.962338241553772
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.47785590277778,41.3085920138889,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",5,0.6,0.745543546365915
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.4778431372549,41.3069362745098,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.454545454545455,0.725877506716209
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.35665104166667,40.9881180555556,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.6875,0.800492307930752
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.35533333333333,40.7403888888889,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.9375,0.988570316554229
+"PREDICTS","SH1_2010__Albertos","SH1_2010__Albertos 1",-3.35483333333333,40.6503055555556,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.9375,0.992603550295858
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.924369047619,-49.2279920634921,"Plants","Land_use","Pasture","Land_use_category",25,0.64,0.692532228478503
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.9210231481481,-49.2393240740741,"Plants","Land_use","Pasture","Land_use_category",76,0.644736842105263,0.74573710166273
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.8090740740741,-50.3143888888889,"Plants","Land_use","Pasture","Land_use_category",101,0.712871287128713,0.757473059758066
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.606425,-50.3215722222222,"Plants","Land_use","Pasture","Land_use_category",101,0.910891089108911,0.912676879036699
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.5559166666667,-49.0875833333333,"Plants","Land_use","Pasture","Land_use_category",101,0.930693069306931,0.930693069306931
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.4836111111111,-49.1677777777778,"Plants","Land_use","Pasture","Land_use_category",101,0.871287128712871,0.877384065195627
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.3902847222222,-50.3570069444444,"Plants","Land_use","Pasture","Land_use_category",101,0.841584158415842,0.866785566150461
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.3591111111111,-49.5683333333333,"Plants","Land_use","Pasture","Land_use_category",101,0.930693069306931,0.930693069306931
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.3476944444444,-48.8569444444444,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.95049504950495
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.2883333333333,-49.058,"Plants","Land_use","Pasture","Land_use_category",101,0.851485148514851,0.851647898408395
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.2530277777777,-51.2554027777778,"Plants","Land_use","Pasture","Land_use_category",8,0.875,0.875
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.2266180555555,-51.2550416666667,"Plants","Land_use","Pasture","Land_use_category",92,0.641304347826087,0.694543847604765
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.1918055555556,-47.7730277777778,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.1719594017094,-51.561579059829,"Plants","Land_use","Pasture","Land_use_category",36,0.527777777777778,0.590912356599049
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.1697162698413,-51.5594027777778,"Plants","Land_use","Pasture","Land_use_category",51,0.529411764705882,0.609304824876029
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.1662222222222,-51.5693148148148,"Plants","Land_use","Pasture","Land_use_category",14,0.785714285714286,0.785714285714286
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.0836111111111,-51.0583333333333,"Plants","Land_use","Pasture","Land_use_category",101,0.841584158415842,0.863676516258942
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.0805092592593,-47.9171851851852,"Plants","Land_use","Pasture","Land_use_category",101,0.762376237623762,0.806207341427612
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-72.0386111111111,-49.85,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.95049504950495
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.8801759259259,-46.8707777777778,"Plants","Land_use","Pasture","Land_use_category",17,0.882352941176471,0.882352941176471
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.8679722222222,-46.8930416666666,"Plants","Land_use","Pasture","Land_use_category",37,0.810810810810811,0.85692903302448
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.8575925925926,-46.8666203703704,"Plants","Land_use","Pasture","Land_use_category",47,0.787234042553192,0.854927911759466
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.7753888888889,-51.5905277777778,"Plants","Land_use","Pasture","Land_use_category",101,0.920792079207921,0.926809868674426
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.7071944444445,-51.82375,"Plants","Land_use","Pasture","Land_use_category",42,0.761904761904762,0.761904761904762
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.6910416666667,-51.8356944444445,"Plants","Land_use","Pasture","Land_use_category",59,0.76271186440678,0.779580221218932
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.6413888888889,-50.3069444444444,"Plants","Land_use","Pasture","Land_use_category",101,0.920792079207921,0.930647523636218
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.5,-47.5875,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.4613333333333,-50.4670277777778,"Plants","Land_use","Pasture","Land_use_category",101,0.851485148514851,0.851485148514851
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.4229166666667,-50.7639166666667,"Plants","Land_use","Pasture","Land_use_category",101,0.920792079207921,0.920792079207921
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.1783333333333,-50.6072222222222,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-71.1516666666667,-51.4061111111111,"Plants","Land_use","Pasture","Land_use_category",101,0.930693069306931,0.931729439683515
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.9771111111111,-51.1231388888889,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.940594059405941
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.8548333333333,-46.7181944444444,"Plants","Land_use","Pasture","Land_use_category",101,0.930693069306931,0.930693069306931
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.8250833333333,-47.7123055555556,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.8138888888889,-46.5316666666667,"Plants","Land_use","Pasture","Land_use_category",92,0.923913043478261,0.934604427126675
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.7818194444445,-46.4920694444445,"Plants","Land_use","Pasture","Land_use_category",9,0.888888888888889,0.999725274725275
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.7783333333333,-50.3611111111111,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.7131944444445,-47.0208055555556,"Plants","Land_use","Pasture","Land_use_category",101,0.920792079207921,0.920792079207921
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.6638888888889,-51.8666666666667,"Plants","Land_use","Pasture","Land_use_category",101,0.910891089108911,0.921640448869469
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.5851666666667,-49.5028888888889,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.940594059405941
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.4632777777778,-48.43,"Plants","Land_use","Pasture","Land_use_category",101,0.97029702970297,0.97029702970297
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.4025,-51.9345833333334,"Plants","Land_use","Pasture","Land_use_category",39,0.794871794871795,0.827256488689654
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.3858333333333,-51.9336111111111,"Plants","Land_use","Pasture","Land_use_category",62,0.854838709677419,0.864712974727953
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.3289166666667,-47.2209166666667,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.95049504950495
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.2766944444444,-46.4431944444444,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.95049504950495
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.2596944444444,-49.0670277777778,"Plants","Land_use","Pasture","Land_use_category",101,0.97029702970297,0.97029702970297
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.1986111111111,-51.4059722222222,"Plants","Land_use","Pasture","Land_use_category",101,0.920792079207921,0.920792079207921
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.0952777777778,-51.7202777777778,"Plants","Land_use","Pasture","Land_use_category",101,0.920792079207921,0.920792079207921
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-70.0586111111111,-46.4855555555556,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.8891666666667,-46.9322222222222,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.953110405380161
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.8222222222222,-47.2611111111111,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.8066666666667,-51.4338888888889,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.945612405561836
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.7633333333333,-48.2669444444444,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.95049504950495
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.7394444444444,-51.6341666666667,"Plants","Land_use","Pasture","Land_use_category",101,0.891089108910891,0.892799279927993
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.7154722222222,-51.2946527777777,"Plants","Land_use","Pasture","Land_use_category",101,0.801980198019802,0.810836652746224
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.6613888888889,-48.665925925926,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.952072543868482
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.6012777777778,-46.7013333333333,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.943209415281151
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.5841666666667,-46.0375,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.5686111111111,-46.2447222222222,"Plants","Land_use","Pasture","Land_use_category",46,0.91304347826087,0.918785890073831
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.55,-47.0558333333333,"Plants","Land_use","Pasture","Land_use_category",101,0.930693069306931,0.939209971416836
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.5188888888889,-50.9052777777778,"Plants","Land_use","Pasture","Land_use_category",101,0.861386138613861,0.870350494316222
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.4995833333333,-48.11625,"Plants","Land_use","Pasture","Land_use_category",101,0.891089108910891,0.905474336224489
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.4405555555556,-47.1280555555556,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.3333333333333,-47.2347222222222,"Plants","Land_use","Pasture","Land_use_category",101,0.97029702970297,0.97029702970297
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.3233333333333,-51.4422222222222,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.3038888888889,-48.0958333333333,"Plants","Land_use","Pasture","Land_use_category",62,0.951612903225806,0.951612903225806
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.1888888888889,-46.4208333333333,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.95049504950495
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.1680833333333,-46.5640277777778,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.1583055555556,-49.7053888888889,"Plants","Land_use","Pasture","Land_use_category",7,0.857142857142857,0.999646781789639
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.1383333333333,-47.8919444444444,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.1022222222222,-51.4308333333333,"Plants","Land_use","Pasture","Land_use_category",101,0.910891089108911,0.918694843466741
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-69.0858333333333,-51.5505555555556,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.940594059405941
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.9913055555556,-46.5204351851852,"Plants","Land_use","Pasture","Land_use_category",74,0.918918918918919,0.929117797042325
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.9895666666667,-46.5209666666667,"Plants","Land_use","Pasture","Land_use_category",27,0.925925925925926,0.925925925925926
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.9705555555556,-51.7869444444444,"Plants","Land_use","Pasture","Land_use_category",101,0.900990099009901,0.907757482991148
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.8741111111111,-46.3469444444444,"Plants","Land_use","Pasture","Land_use_category",101,0.910891089108911,0.91934983499752
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.7373148148148,-46.2194907407407,"Plants","Land_use","Pasture","Land_use_category",101,0.900990099009901,0.914364090602339
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.7058333333333,-49.4177777777778,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.7044444444444,-46.6891666666667,"Plants","Land_use","Pasture","Land_use_category",17,0.941176470588235,0.999964985994398
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.4707777777778,-49.2004722222222,"Plants","Land_use","Pasture","Land_use_category",101,0.97029702970297,0.97029702970297
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.4238888888889,-46.2725,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.25,-46.7116666666667,"Plants","Land_use","Pasture","Land_use_category",101,0.97029702970297,0.97029702970297
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.15475,-46.0903888888889,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98019801980198
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.1478333333333,-48.4364722222222,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.96039603960396
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.0677777777778,-49.2536111111111,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.940594059405941
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-68.00675,-46.8550277777778,"Plants","Land_use","Pasture","Land_use_category",101,0.900990099009901,0.91430077655321
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.9336111111111,-47.6875925925926,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.963631289929112
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.9086111111111,-46.2005555555556,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.963011395479171
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.7544444444444,-46.6063888888889,"Plants","Land_use","Pasture","Land_use_category",101,0.95049504950495,0.953110405380161
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.7319333333333,-46.2938,"Plants","Land_use","Pasture","Land_use_category",101,0.99009900990099,0.99009900990099
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.6853472222222,-47.6903472222223,"Plants","Land_use","Pasture","Land_use_category",101,0.930693069306931,0.940853066596579
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.6333333333333,-48.8597222222222,"Plants","Land_use","Pasture","Land_use_category",96,0.916666666666667,0.918545466486527
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.6248611111111,-46.5473611111111,"Plants","Land_use","Pasture","Land_use_category",101,0.99009900990099,0.99009900990099
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.6241111111111,-46.2035555555556,"Plants","Land_use","Pasture","Land_use_category",101,0.96039603960396,0.963011395479171
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.5828333333333,-46.3257777777778,"Plants","Land_use","Pasture","Land_use_category",87,0.908045977011494,0.908045977011494
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.5430555555556,-46.4413888888889,"Plants","Land_use","Pasture","Land_use_category",101,0.940594059405941,0.943209415281151
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.532,-46.9102777777778,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98281337567719
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.4558888888889,-46.5743611111111,"Plants","Land_use","Pasture","Land_use_category",101,0.99009900990099,0.99999455989555
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.2552777777778,-47.0133333333333,"Plants","Land_use","Pasture","Land_use_category",78,0.884615384615385,0.884615384615385
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-67.0005555555556,-47.0025,"Plants","Land_use","Pasture","Land_use_category",101,0.97029702970297,0.97029702970297
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-66.759,-47.0921388888889,"Plants","Land_use","Pasture","Land_use_category",101,0.930693069306931,0.936594615541626
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-66.5391666666667,-47.1030555555556,"Plants","Land_use","Pasture","Land_use_category",101,0.98019801980198,0.98281337567719
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-66.2261111111111,-47.2291666666667,"Plants","Land_use","Pasture","Land_use_category",84,0.928571428571429,0.936096136567835
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-66.2,-47.2291666666667,"Plants","Land_use","Pasture","Land_use_category",17,0.882352941176471,0.882352941176471
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 1",-66.0809861111111,-47.5481111111112,"Plants","Land_use","Pasture","Land_use_category",101,0.900990099009901,0.911506723051964
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-68.5140444444444,-54.8490032407407,"Plants","Land_use","Pasture","Land_use_category",86,0.441860465116279,0.586846076348345
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-68.5134416666667,-54.8498055555555,"Plants","Land_use","Pasture","Land_use_category",4,0.5,0.6328125
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-68.5090628787879,-54.8502042929293,"Plants","Land_use","Pasture","Land_use_category",4,0.25,0.607377410987646
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.989,-54.6386777777778,"Plants","Land_use","Pasture","Land_use_category",94,0.808510638297872,0.812880971014569
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.8671708333333,-54.3662388888889,"Plants","Land_use","Pasture","Land_use_category",94,0.691489361702128,0.716796166245486
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.6786819444444,-54.1304458333333,"Plants","Land_use","Pasture","Land_use_category",2,0.5,0.9992
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.6466055555556,-54.0776722222222,"Plants","Land_use","Pasture","Land_use_category",92,0.934782608695652,0.940593101806386
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-68.5374353174603,-54.8436156746032,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",26,0.730769230769231,0.836463212949242
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-68.5338021367521,-54.8436066239316,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",68,0.691176470588235,0.786553471319015
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.9543375,-54.6276166666667,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",94,0.851063829787234,0.876389920703712
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.8609123931624,-54.3747576923077,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",94,0.670212765957447,0.738129079941844
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.4538444444444,-54.4829722222222,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",94,0.851063829787234,0.891401057595389
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.2645545138889,-54.4019388888889,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",82,0.719512195121951,0.78138939878817
+"PREDICTS","SH1_2013__Peri","SH1_2013__Peri 2",-67.2634737037037,-54.3969407407407,"Plants","Land_use","Primary vegetation - Light/intense use","Land_use_category",12,0.75,0.868658853873291
+"PREDICTS","TN1_1998__Owiunji","TN1_1998__Owiunji 1",31.47848,1.718202,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",69,0.27536231884058,0.428236840805939
+"PREDICTS","TN1_2005__Fermon","TN1_2005__Fermon 1",120.13333,-1.2,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",22,0.227272727272727,0.571913965663966
+"PREDICTS","TN1_2006__Bobo","TN1_2006__Bobo 1",9.18947717384,5.37412120203,"Invertebrates","Land_use","Cropland","Land_use_category",39,0.923076923076923,0.97019647019647
+"PREDICTS","TN1_2006__Bobo","TN1_2006__Bobo 1",9.18875767167,5.38500367238,"Invertebrates","Land_use","Forest_plantation","Land_use_category",39,0.615384615384615,0.781057404134327
+"PREDICTS","TN1_2006__Bobo","TN1_2006__Bobo 1",9.19064636487,5.39354776066,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",39,0.41025641025641,0.462066779374472
+"PREDICTS","TN1_2006__Nakagawa","TN1_2006__Nakagawa 1",114.041576616,4.15926217927,"Vertebrates","Land_use","Forest_plantation","Land_use_category",18,0.388888888888889,0.462174027340389
+"PREDICTS","TN1_2006__Nakagawa","TN1_2006__Nakagawa 1",114.015688363,4.16742514186,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",18,0.5,0.632414628379619
+"PREDICTS","TN1_2006__Nakagawa","TN1_2006__Nakagawa 1",114.0228018025,4.16322704681,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",17,0.352941176470588,0.460955360401798
+"PREDICTS","TN1_2006__Soh","TN1_2006__Soh 1",101.40483,4.51883,"Vertebrates","Land_use","Cropland","Land_use_category",36,0.583333333333333,0.720922701885346
+"PREDICTS","TN1_2006__Soh","TN1_2006__Soh 1",101.38417,4.48017,"Vertebrates","Land_use","Forest_plantation","Land_use_category",36,0.277777777777778,0.370254609837943
+"PREDICTS","TN1_2006__Soh","TN1_2006__Soh 1",101.38567,4.50467,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",36,0.222222222222222,0.291454769788103
+"PREDICTS","TN1_2006__Soh","TN1_2006__Soh 1",101.737749,3.719329,"Vertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",36,0.138888888888889,0.336484471803099
+"PREDICTS","TN1_2006__Soh","TN1_2006__Soh 1",101.3775,4.4705,"Vertebrates","Land_use","Urban","Land_use_category",36,0.777777777777778,0.911290352086498
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",1.94020744370429,12.2818042565,"Invertebrates","Land_use","Cropland","Land_use_category",17,0.647058823529412,0.860653487285378
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",2.42753127811962,11.6245033265434,"Invertebrates","Land_use","Cropland","Land_use_category",16,0.1875,0.579298295315203
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",1.92918318428579,12.2623935634789,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",3,0.666666666666667,0.881374420507227
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",1.92961475291,12.2631040787667,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",14,0.571428571428571,0.837596304468042
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",2.374383025875,11.6559233305,"Invertebrates","Land_use","Pasture","Land_use_category",17,0.411764705882353,0.549611797593034
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",1.97067271979077,12.2875194897692,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",10,0.2,0.4841141485366
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",1.97129476489889,12.2875524984333,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",7,0.714285714285714,0.874622679848041
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",2.360292407505,11.660481599975,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",17,0.411764705882353,0.450098181507727
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",2.44174780485909,11.6129667754182,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",6,0.5,0.732057760359647
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 2",2.442178477183,11.61226271996,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",11,0.363636363636364,0.579079337759413
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 3",1.94020744370429,12.2818042565,"Invertebrates","Land_use","Cropland","Land_use_category",6,0.666666666666667,0.988519017927925
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 3",2.42344198918594,11.6286978203667,"Invertebrates","Land_use","Cropland","Land_use_category",6,0.5,0.562955111222922
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 3",1.92961475291,12.2631040787667,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",6,0.5,0.93360398053099
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 3",2.374383025875,11.6559233305,"Invertebrates","Land_use","Pasture","Land_use_category",6,0.5,0.5
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 3",1.97129476489889,12.2875524984333,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",6,0.333333333333333,0.478670367229461
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 3",2.360292407505,11.660481599975,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",6,0.333333333333333,0.428571428571429
+"PREDICTS","TN1_2007__Bouyer","TN1_2007__Bouyer 3",2.44105825060333,11.6137653568667,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",6,0.5,0.610953085032817
+"PREDICTS","TN1_2007__CastroLuna","TN1_2007__CastroLuna 1",-92.4643719136,17.6066206789889,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",5,0.6,0.756521739130435
+"PREDICTS","TN1_2007__CastroLuna","TN1_2007__CastroLuna 1",-92.46432708335,17.6064847222,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",9,0.555555555555556,0.754714576962283
+"PREDICTS","TN1_2007__CastroLuna","TN1_2007__CastroLuna 1",-92.4641263889,17.6058347222,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",9,0.222222222222222,0.615058117324524
+"PREDICTS","TN1_2007__CastroLuna","TN1_2007__CastroLuna 1",-92.4697050505182,17.6148510100909,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",2,0,0.12203557312253
+"PREDICTS","TN1_2007__CastroLuna","TN1_2007__CastroLuna 1",-92.4694055555667,17.6148861111,"Vertebrates","Land_use","Mature secondary vegetation","Land_use_category",21,0.19047619047619,0.340516380171553
+"PREDICTS","TN1_2007__CastroLuna","TN1_2007__CastroLuna 1",-92.46171180555,17.60716319445,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",5,0,0.18551724137931
+"PREDICTS","TN1_2007__CastroLuna","TN1_2007__CastroLuna 1",-92.46105,17.6068759259333,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",19,0.368421052631579,0.539794762861754
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.76079625,-0.068968825,"Vertebrates","Land_use","Cropland","Land_use_category",4,0.75,0.890013966480447
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.760795625,-0.06845575625,"Vertebrates","Land_use","Cropland","Land_use_category",6,0.833333333333333,0.928571428571429
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.760688125,-0.06968170625,"Vertebrates","Land_use","Cropland","Land_use_category",92,0.576086956521739,0.627050654924648
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7599233333333,-0.0692759933333333,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.883333333333333
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7596893333333,-0.0711354533333333,"Vertebrates","Land_use","Cropland","Land_use_category",4,0.75,0.75
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7588435714286,-0.0704610785714286,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.678571428571429
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7587207142857,-0.0718621642857143,"Vertebrates","Land_use","Cropland","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.6366557142857,0.125669561904762,"Vertebrates","Land_use","Cropland","Land_use_category",112,0.428571428571429,0.568125852727045
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.6350304545455,0.125225222727273,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.5
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7510225,-0.0768944113636364,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",6,0.5,0.579188107489994
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7507906666667,-0.0769787711111111,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",2,0,0.0294117647058824
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7506713333333,-0.0769466533333333,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",21,0.142857142857143,0.288366550172628
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7505213043478,-0.0770816347826087,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",2,0.5,0.5
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.750458,-0.0770763822222222,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",4,0.5,0.55
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.750452173913,-0.0770280434782609,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",5,0,0.130434782608696
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7503036956522,-0.0769713891304348,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",35,0.428571428571429,0.576805711943995
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7502025531915,-0.0770940361702128,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",14,0.285714285714286,0.294142028184581
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7501646808511,-0.0771029723404255,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",14,0.642857142857143,0.689555125725339
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7500563043478,-0.0771074282608696,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",6,0.166666666666667,0.3
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.632215625,0.1219716625,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",12,0.25,0.296757908200029
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.6321346666667,0.122162173333333,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",23,0.521739130434783,0.607469260752055
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.632035,0.12071575,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",71,0.47887323943662,0.53417633835792
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.63197375,0.12243445,"Vertebrates","Land_use","Intermediate secondary vegetation","Land_use_category",8,0.375,0.375
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7613571428571,-0.0746473428571429,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",60,0.55,0.615667495211222
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7606093333333,-0.07493234,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",4,0.5,0.5
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7604866666667,-0.07492664,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",7,0.571428571428571,0.571428571428571
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.759725,-0.075171025,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",28,0.607142857142857,0.636629827539282
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7592694117647,-0.0753967176470588,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",4,0.25,0.307486631016043
+"PREDICTS","TN1_2007__ODea","TN1_2007__ODea 1",-78.7591611764706,-0.0753916882352941,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",10,0.3,0.305882352941176
+"PREDICTS","TN1_2009__Fukuda","TN1_2009__Fukuda 1",114.00329861125,4.12476041666625,"Vertebrates","Land_use","Cropland","Land_use_category",20,0.55,0.610756873418164
+"PREDICTS","TN1_2009__Fukuda","TN1_2009__Fukuda 1",114.026425926,4.16395370370333,"Vertebrates","Land_use","Secondary vegetation","Land_use_category",20,0.4,0.586973008498845
+"PREDICTS","VK1_2009__Noreika","VK1_2009__Noreika 1",24.806099,55.224911,"Invertebrates","Land_use","Forest_plantation","Land_use_category",7,0.142857142857143,0.581141810047357
+"PREDICTS","VK1_2009__Noreika","VK1_2009__Noreika 1",24.7899416666667,55.208512,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",7,0,0.226542601715016
+"PREDICTS","VK1_2009__Noreika","VK1_2009__Noreika 2",24.806099,55.224911,"Invertebrates","Land_use","Forest_plantation","Land_use_category",7,0.428571428571429,0.863869655953603
+"PREDICTS","VK1_2009__Noreika","VK1_2009__Noreika 2",24.7899416666667,55.208512,"Invertebrates","Land_use","Mature secondary vegetation","Land_use_category",7,0.142857142857143,0.386658771599862
+"PREDICTS","VK1_2011__Jung","VK1_2011__Jung 1",-128.6182778,60.080983,"Vertebrates","Land_use","Young secondary vegetation","Land_use_category",4,0,0.15
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.3986909022222,50.5960377088889,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",21,0.428571428571429,0.458553791887125
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.39859257,50.5967335726316,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",14,0.571428571428571,0.615516062884484
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.3967449735294,50.5974181411765,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",12,0.25,0.366023904957932
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.35925267,50.373414208,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",44,0.795454545454545,0.826616183723896
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.35641134,50.3709101488889,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",3,0,0.120580808080808
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.1554791521739,50.9033126143478,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",21,0.285714285714286,0.583425926543046
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.1551871808333,50.9039286325,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",2,0.5,0.958333333333333
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.1548556408696,50.90362015,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",14,0.214285714285714,0.240542066629023
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-69.1547785033333,50.90326839,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0.727272727272727,0.895260295260295
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-67.9840796848387,51.2777057948387,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",25,0.28,0.444653111208622
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-67.98402431,51.277573591,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",8,0.625,0.725
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-67.98368884,51.2775279362069,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",15,0.466666666666667,0.612089249492901
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 1",-67.9835818263333,51.2775578496667,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",2,0.5,0.6
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 2",-69.397103971,50.599179934,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",10,0.4,0.529108682883214
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 2",-69.3927041422222,50.6029397166667,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",11,0,0.152249459941768
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 2",-69.35581991,50.37402403,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",5,0.6,0.66029106029106
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 2",-69.354718235,50.372366505,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",16,0.625,0.743775535298035
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 2",-69.153859916875,50.9033267525,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",21,0.476190476190476,0.612327045816347
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 2",-67.984043608,51.2782236806667,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",9,0.222222222222222,0.339133610928483
+"PREDICTS","VK1_2011__Legare","VK1_2011__Legare 2",-67.983653020625,51.27794047125,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",13,0.307692307692308,0.505231636912625
+"PREDICTS","VK1_2012__Noreika","VK1_2012__Noreika 1",24.95272525,60.242951625,"Invertebrates","Land_use","Urban","Land_use_category",9,0.444444444444444,0.579725559263223
+"PREDICTS","VK1_2012__Noreika","VK1_2012__Noreika 1",24.9105406666667,60.2635863333333,"Invertebrates","Land_use","Young secondary vegetation","Land_use_category",9,0.444444444444444,0.542191238131652
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 1",-112.83889,56.047466,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",52,0.788461538461538,0.833412059484844
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 1",-111.113747,57.299912,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",52,0.826923076923077,0.840236686390533
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 1",-110.807022,56.367294,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",52,0.807692307692308,0.891559446554316
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 1",-110.613266,57.633213,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",52,0.807692307692308,0.835577918458353
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 1",-110.536407,56.315376,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",52,0.865384615384615,0.894752042828966
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 1",-110.065025,56.463573,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",52,0.769230769230769,0.821997119191595
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-114.030411,54.330906,"Invertebrates","Land_use","Cropland","Land_use_category",50,0.98,0.998787878787879
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-113.779305,54.293087,"Invertebrates","Land_use","Cropland","Land_use_category",50,0.96,0.962516556291391
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-114.447365,54.345501,"Invertebrates","Land_use","Pasture","Land_use_category",50,0.98,0.998787878787879
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-115.052505,56.777458,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.8,0.843842190016103
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-115.017265,56.634964,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.96,0.989166666666667
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-114.944817,56.986378,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.78,0.811212121212121
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-113.989128,54.49514,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.98,0.998787878787879
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-113.665222,54.491386,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.78,0.797443233312921
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-113.595978,54.669357,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.86,0.870833333333333
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-112.072166,55.559921,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.8,0.832007246376812
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-111.923866,55.164566,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.8,0.851371281464531
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-111.749794,55.547825,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.9,0.9
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-111.656158,55.156345,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",50,0.88,0.898149191444966
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-115.287514,57.003262,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.72,0.734741784037559
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-113.492157,57.38126,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.9,0.928947368421053
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-112.846794,57.294983,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.82,0.854266666666667
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-112.719238,56.398125,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.86,0.909911650782829
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-112.424896,56.329151,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.84,0.879878787878788
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-112.146545,55.374165,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.84,0.890254542818112
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-111.849083,59.94268,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.84,0.882074074074074
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 2",-111.417191,55.497818,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",50,0.94,0.944285714285714
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 3",-111.403084,54.041615,"Invertebrates","Land_use","Cropland","Land_use_category",43,0.976744186046512,0.996677740863787
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 3",-111.340385,54.236469,"Invertebrates","Land_use","Cropland","Land_use_category",43,0.976744186046512,0.976744186046512
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 3",-111.243111,54.3843,"Invertebrates","Land_use","Cropland","Land_use_category",43,0.976744186046512,0.996677740863787
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 3",-110.990196,54.163403,"Invertebrates","Land_use","Cropland","Land_use_category",43,0.953488372093023,0.953488372093023
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 3",-115.073296,53.145187,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",43,0.883720930232558,0.885271317829457
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 3",-112.580597,57.861206,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",43,0.767441860465116,0.770348837209302
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 3",-111.660652,54.233109,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",43,0.906976744186047,0.906976744186047
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-112.986923,53.872318,"Invertebrates","Land_use","Cropland","Land_use_category",27,0.925925925925926,0.925925925925926
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.788589,53.67614,"Invertebrates","Land_use","Cropland","Land_use_category",27,0.962962962962963,0.962962962962963
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.167091,53.823879,"Invertebrates","Land_use","Cropland","Land_use_category",27,0.962962962962963,0.990740740740741
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-113.254288,53.878666,"Invertebrates","Land_use","Pasture","Land_use_category",27,0.814814814814815,0.843137254901961
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.749352,53.857868,"Invertebrates","Land_use","Pasture","Land_use_category",27,0.962962962962963,0.990740740740741
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.691193,54.045712,"Invertebrates","Land_use","Pasture","Land_use_category",27,0.962962962962963,0.990740740740741
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.449608,53.671288,"Invertebrates","Land_use","Pasture","Land_use_category",27,0.962962962962963,0.980246913580247
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.109261,53.975182,"Invertebrates","Land_use","Pasture","Land_use_category",27,0.888888888888889,0.888888888888889
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-113.208633,54.054386,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",27,0.777777777777778,0.786596119929453
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-112.908401,54.028,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",27,0.962962962962963,0.990740740740741
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.464218,53.872204,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",27,0.888888888888889,0.934495279593319
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.209465,56.039345,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",27,0.888888888888889,0.888888888888889
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-110.673233,56.698807,"Invertebrates","Land_use","Primary vegetation - Light/intense use","Land_use_category",27,0.777777777777778,0.806100217864924
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-111.22509,53.639076,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",27,0.888888888888889,0.888888888888889
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-110.113976,55.529751,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",27,0.703703703703704,0.727272727272727
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 4",-110.02491,56.651634,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",27,0.851851851851852,0.851851851851852
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 5",-116.65461,59.292957,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",26,0.923076923076923,0.979807692307692
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 6",-112.83889,56.047466,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.974358974358974
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 6",-111.113747,57.299912,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 6",-110.807022,56.367294,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.666666666666667
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 6",-110.613266,57.633213,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.850574712643678
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 6",-110.536407,56.315376,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.974358974358974
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 6",-110.065025,56.463573,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",3,0.666666666666667,0.9553264604811
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 7",-113.492157,57.38126,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",8,0.875,0.9875
+"PREDICTS","VK1_2013__ABMIboreal","VK1_2013__ABMIboreal 7",-112.846794,57.294983,"Invertebrates","Land_use","Secondary vegetation","Land_use_category",8,0.875,0.9875

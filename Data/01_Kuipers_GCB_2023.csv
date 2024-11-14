@@ -1,0 +1,103 @@
+"Database","Source_ID","SS_ID","Longitude","Latitude","Taxon_group","Pressure","Pressure_level","Pressure_unit","n_species","PDF","MSA_loss"
+"Kuipers_GCB_2023",2,"2_1",-43.88,-22.75,"Vertebrates","Land_use","Cropland","Land_use_category",23,0.217391304347826,0.310796645702306
+"Kuipers_GCB_2023",3,"3_1",-60.21,2.76,"Vertebrates","Land_use","Cropland","Land_use_category",9,0,0.136411515739912
+"Kuipers_GCB_2023",8,"8_1",37.94,-4.28,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.5
+"Kuipers_GCB_2023",9,"9_1",28,-12.83,"Vertebrates","Land_use","Cropland","Land_use_category",3,0.666666666666667,0.666666666666667
+"Kuipers_GCB_2023",9,"9_2",28,-12.83,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.5
+"Kuipers_GCB_2023",12,"12_1",36.23,7.63,"Vertebrates","Land_use","Cropland","Land_use_category",15,0.266666666666667,0.459963768115942
+"Kuipers_GCB_2023",14,"14_1",32.57,-28.3,"Vertebrates","Land_use","Pasture","Land_use_category",10,0.1,0.743544641206231
+"Kuipers_GCB_2023",16,"16_1",-65.58,-38,"Vertebrates","Land_use","Pasture","Land_use_category",6,0.166666666666667,0.431623931623932
+"Kuipers_GCB_2023",17,"17_1",-88.93,17.6,"Vertebrates","Land_use","Cropland","Land_use_category",2,0,0.184210526315789
+"Kuipers_GCB_2023",17,"17_1",-88.93,17.6,"Vertebrates","Land_use","Forest plantation","Land_use_category",2,0.5,0.5
+"Kuipers_GCB_2023",17,"17_2",-88.93,17.6,"Vertebrates","Land_use","Cropland","Land_use_category",2,0,0.5
+"Kuipers_GCB_2023",17,"17_2",-88.93,17.6,"Vertebrates","Land_use","Forest plantation","Land_use_category",2,0,0.5
+"Kuipers_GCB_2023",17,"17_3",-88.93,17.6,"Vertebrates","Land_use","Cropland","Land_use_category",2,0,0.5
+"Kuipers_GCB_2023",17,"17_3",-88.93,17.6,"Vertebrates","Land_use","Forest plantation","Land_use_category",2,0,0.346666666666667
+"Kuipers_GCB_2023",17,"17_4",-88.93,17.6,"Vertebrates","Land_use","Cropland","Land_use_category",2,0,0.5
+"Kuipers_GCB_2023",17,"17_4",-88.93,17.6,"Vertebrates","Land_use","Forest plantation","Land_use_category",2,0,0.5
+"Kuipers_GCB_2023",21,"21_1",39.83,-3.33,"Vertebrates","Land_use","Cropland","Land_use_category",10,0.1,0.116666666666667
+"Kuipers_GCB_2023",26,"26_1",-96.725833,19.343056,"Vertebrates","Land_use","Cropland","Land_use_category",15,0.2,0.39242654508612
+"Kuipers_GCB_2023",30,"30_1",12.34,7.37,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.545454545454545,0.595547309833024
+"Kuipers_GCB_2023",41,"41_1",117.53,4.6685,"Vertebrates","Land_use","Cropland","Land_use_category",12,0.75,0.780701754385965
+"Kuipers_GCB_2023",46,"46_1",-98.05,19.22,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.83648393194707
+"Kuipers_GCB_2023",49,"49_1",-90.86,38.66,"Vertebrates","Land_use","Cropland","Land_use_category",6,0.333333333333333,0.333333333333333
+"Kuipers_GCB_2023",52,"52_1",-119.42,36.78,"Vertebrates","Land_use","Cropland","Land_use_category",9,0,0.559251921158529
+"Kuipers_GCB_2023",58,"58_1",76.9,10.3,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.0909090909090909,0.437633799487632
+"Kuipers_GCB_2023",64,"64_1",28.88,-25.63,"Vertebrates","Land_use","Pasture","Land_use_category",11,0.0909090909090909,0.284869675778767
+"Kuipers_GCB_2023",68,"68_1",36.1,0.25,"Vertebrates","Land_use","Cropland","Land_use_category",6,0.5,0.5
+"Kuipers_GCB_2023",71,"71_1",12.97,50.39,"Vertebrates","Land_use","Forest plantation","Land_use_category",10,0.2,0.331658357840661
+"Kuipers_GCB_2023",77,"77_1",15.71,2.24,"Vertebrates","Land_use","Cropland","Land_use_category",22,0.590909090909091,0.704796128367478
+"Kuipers_GCB_2023",80,"80_1",-43.55,-22.83,"Vertebrates","Land_use","Cropland","Land_use_category",13,0.461538461538462,0.597435897435897
+"Kuipers_GCB_2023",80,"80_2",-43.55,-22.83,"Vertebrates","Land_use","Cropland","Land_use_category",20,0.4,0.515295815295815
+"Kuipers_GCB_2023",83,"83_1",-8.65,40.64,"Vertebrates","Land_use","Cropland","Land_use_category",14,0.0714285714285714,0.35812447786132
+"Kuipers_GCB_2023",84,"84_1",5.89,5.12,"Vertebrates","Land_use","Cropland","Land_use_category",4,0,0.425
+"Kuipers_GCB_2023",85,"85_1",8.12,50,"Vertebrates","Land_use","Cropland","Land_use_category",7,0.571428571428571,0.603571428571429
+"Kuipers_GCB_2023",94,"94_1",-96.56,39.1,"Vertebrates","Land_use","Pasture","Land_use_category",11,0,0.213216938811432
+"Kuipers_GCB_2023",99,"99_1",27.59,-33.14,"Vertebrates","Land_use","Pasture","Land_use_category",5,0.2,0.697312520115867
+"Kuipers_GCB_2023",105,"105_1",-7.29,39.92,"Vertebrates","Land_use","Forest plantation","Land_use_category",12,0.0833333333333334,0.675645792106748
+"Kuipers_GCB_2023",107,"107_1",102.5,3.55,"Vertebrates","Land_use","Cropland","Land_use_category",9,0,0.0463937621832359
+"Kuipers_GCB_2023",114,"114_1",-73.03,-37.72,"Vertebrates","Land_use","Forest plantation","Land_use_category",7,0.142857142857143,0.477365491651206
+"Kuipers_GCB_2023",114,"114_2",-73.03,-37.72,"Vertebrates","Land_use","Forest plantation","Land_use_category",7,0,0.566666666666667
+"Kuipers_GCB_2023",115,"115_1",-84.82,9.72,"Vertebrates","Land_use","Cropland","Land_use_category",27,0.37037037037037,0.51234003764868
+"Kuipers_GCB_2023",119,"119_1",77.11,10.39,"Vertebrates","Land_use","Cropland","Land_use_category",9,0.222222222222222,0.384248737373737
+"Kuipers_GCB_2023",124,"124_1",121.93,16.22,"Vertebrates","Land_use","Cropland","Land_use_category",4,0.25,0.494500846023689
+"Kuipers_GCB_2023",124,"124_1",121.93,16.22,"Vertebrates","Land_use","Forest plantation","Land_use_category",3,0,0.1
+"Kuipers_GCB_2023",125,"125_1",-83.52,9.9,"Vertebrates","Land_use","Cropland","Land_use_category",14,0.142857142857143,0.44047619047619
+"Kuipers_GCB_2023",125,"125_1",-83.52,9.9,"Vertebrates","Land_use","Forest plantation","Land_use_category",14,0.785714285714286,0.833333333333333
+"Kuipers_GCB_2023",130,"130_1",-49.63,-10.79,"Vertebrates","Land_use","Cropland","Land_use_category",10,0.7,0.7
+"Kuipers_GCB_2023",131,"131_1",-51.07,0.04,"Vertebrates","Land_use","Forest plantation","Land_use_category",18,0.611111111111111,0.664176245210728
+"Kuipers_GCB_2023",134,"134_1",38.45,7.6,"Vertebrates","Land_use","Cropland","Land_use_category",10,0.1,0.607168861856827
+"Kuipers_GCB_2023",137,"137_1",-8.6,40.74,"Vertebrates","Land_use","Cropland","Land_use_category",8,0,0.116776315789474
+"Kuipers_GCB_2023",137,"137_1",-8.6,40.74,"Vertebrates","Land_use","Forest plantation","Land_use_category",8,0.375,0.375
+"Kuipers_GCB_2023",137,"137_1",-8.6,40.74,"Vertebrates","Land_use","Pasture","Land_use_category",8,0.375,0.523026315789474
+"Kuipers_GCB_2023",138,"138_1",138.66,36.85,"Vertebrates","Land_use","Forest plantation","Land_use_category",14,0.428571428571429,0.889890176913644
+"Kuipers_GCB_2023",139,"139_1",-73.65,-41.32,"Vertebrates","Land_use","Forest plantation","Land_use_category",3,0,0.166666666666667
+"Kuipers_GCB_2023",140,"140_1",13.65,53.35,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.875
+"Kuipers_GCB_2023",142,"142_1",145.51,-17.43,"Vertebrates","Land_use","Pasture","Land_use_category",4,0.5,0.5
+"Kuipers_GCB_2023",142,"142_2",145.53,-17.44,"Vertebrates","Land_use","Pasture","Land_use_category",5,0.4,0.56
+"Kuipers_GCB_2023",151,"151_1",-72.25,-45.25,"Vertebrates","Land_use","Forest plantation","Land_use_category",6,0.666666666666667,0.755555555555556
+"Kuipers_GCB_2023",151,"151_2",-72.25,-45.25,"Vertebrates","Land_use","Forest plantation","Land_use_category",7,0.428571428571429,0.62593984962406
+"Kuipers_GCB_2023",151,"151_3",-72.25,-45.25,"Vertebrates","Land_use","Forest plantation","Land_use_category",3,0.333333333333333,0.523809523809524
+"Kuipers_GCB_2023",151,"151_4",-72.25,-45.25,"Vertebrates","Land_use","Forest plantation","Land_use_category",4,0.5,0.5
+"Kuipers_GCB_2023",153,"153_1",-121.97,39.66,"Vertebrates","Land_use","Cropland","Land_use_category",5,0.2,0.366666666666667
+"Kuipers_GCB_2023",160,"160_1",16.78333,48.88333,"Vertebrates","Land_use","Forest plantation","Land_use_category",3,0,0.055052790346908
+"Kuipers_GCB_2023",161,"161_1",-47.45,-23.35,"Vertebrates","Land_use","Forest plantation","Land_use_category",11,0.181818181818182,0.297520661157025
+"Kuipers_GCB_2023",165,"165_1",-47.79,-22.37,"Vertebrates","Land_use","Cropland","Land_use_category",19,0.315789473684211,0.461150871181691
+"Kuipers_GCB_2023",165,"165_1",-47.79,-22.37,"Vertebrates","Land_use","Forest plantation","Land_use_category",19,0.315789473684211,0.485170462671266
+"Kuipers_GCB_2023",166,"166_1",-44.84,-20.9,"Vertebrates","Land_use","Cropland","Land_use_category",5,0.4,0.784833333333333
+"Kuipers_GCB_2023",172,"172_1",39.2,8.516667,"Vertebrates","Land_use","Cropland","Land_use_category",9,0,0.232773899440566
+"Kuipers_GCB_2023",173,"173_1",-55.23,-31.52,"Vertebrates","Land_use","Forest plantation","Land_use_category",13,0.307692307692308,0.562493390038366
+"Kuipers_GCB_2023",176,"176_1",-96.95,19.51,"Vertebrates","Land_use","Cropland","Land_use_category",6,0,0.295208495208495
+"Kuipers_GCB_2023",177,"177_1",11.13,59.63,"Vertebrates","Land_use","Cropland","Land_use_category",5,0.2,0.734220777545598
+"Kuipers_GCB_2023",177,"177_1",11.13,59.63,"Vertebrates","Land_use","Forest plantation","Land_use_category",5,0,0.458190800505637
+"Kuipers_GCB_2023",180,"180_1",-9.36,8.24,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.181818181818182,0.467105263157895
+"Kuipers_GCB_2023",181,"181_2",118.63,5.21,"Vertebrates","Land_use","Cropland","Land_use_category",6,0.666666666666667,0.972486772486773
+"Kuipers_GCB_2023",183,"183_1",113.83,4.03,"Vertebrates","Land_use","Cropland","Land_use_category",7,0.285714285714286,0.385093167701863
+"Kuipers_GCB_2023",187,"187_1",92.87,27.08,"Vertebrates","Land_use","Forest plantation","Land_use_category",4,0.75,0.75
+"Kuipers_GCB_2023",189,"189_1",101.71,0.29,"Vertebrates","Land_use","Cropland","Land_use_category",3,0.666666666666667,0.666666666666667
+"Kuipers_GCB_2023",194,"194_3",24.9,0.55,"Vertebrates","Land_use","Cropland","Land_use_category",4,0.5,0.666666666666667
+"Kuipers_GCB_2023",194,"194_4",24.9,0.55,"Vertebrates","Land_use","Cropland","Land_use_category",11,0.909090909090909,0.909090909090909
+"Kuipers_GCB_2023",194,"194_5",24.9,0.55,"Vertebrates","Land_use","Cropland","Land_use_category",2,0.5,0.5
+"Kuipers_GCB_2023",194,"194_7",24.9,0.55,"Vertebrates","Land_use","Cropland","Land_use_category",3,0.333333333333333,0.472222222222222
+"Kuipers_GCB_2023",195,"195_1",24.9,0.55,"Vertebrates","Land_use","Cropland","Land_use_category",15,0.733333333333333,0.776554592296989
+"Kuipers_GCB_2023",196,"196_1",121.26,16.57,"Vertebrates","Land_use","Cropland","Land_use_category",12,0.5,0.529658284977434
+"Kuipers_GCB_2023",196,"196_1",121.26,16.57,"Vertebrates","Land_use","Forest plantation","Land_use_category",12,0.416666666666667,0.66222206871143
+"Kuipers_GCB_2023",197,"197_1",31.08,-6.92,"Vertebrates","Land_use","Cropland","Land_use_category",4,0.25,0.25
+"Kuipers_GCB_2023",204,"204_1",16.45,48.88,"Vertebrates","Land_use","Cropland","Land_use_category",10,0,0.479315679599456
+"Kuipers_GCB_2023",205,"205_1",-85.83,13.67,"Vertebrates","Land_use","Cropland","Land_use_category",5,0.4,0.544
+"Kuipers_GCB_2023",205,"205_1",-85.83,13.67,"Vertebrates","Land_use","Forest plantation","Land_use_category",14,0.428571428571429,0.652648516142492
+"Kuipers_GCB_2023",206,"206_1",-47.08,-23.73,"Vertebrates","Land_use","Cropland","Land_use_category",9,0.888888888888889,0.944444444444444
+"Kuipers_GCB_2023",206,"206_1",-47.08,-23.73,"Vertebrates","Land_use","Forest plantation","Land_use_category",9,0.777777777777778,0.833333333333333
+"Kuipers_GCB_2023",214,"214_1",-119.67,49.57,"Vertebrates","Land_use","Cropland","Land_use_category",4,0,0.466598645916543
+"Kuipers_GCB_2023",215,"215_1",113.08,4.03,"Vertebrates","Land_use","Cropland","Land_use_category",10,0.3,0.552583470169677
+"Kuipers_GCB_2023",217,"217_1",80.46,6.39,"Vertebrates","Land_use","Cropland","Land_use_category",8,0.75,0.85958904109589
+"Kuipers_GCB_2023",219,"219_1",-96.21667,19.28333,"Vertebrates","Land_use","Cropland","Land_use_category",7,0,0.40203373015873
+"Kuipers_GCB_2023",221,"221_1",-75.71,4.42,"Vertebrates","Land_use","Cropland","Land_use_category",17,0.176470588235294,0.369216510133465
+"Kuipers_GCB_2023",224,"224_1",-72.68333,-35.98333,"Vertebrates","Land_use","Forest plantation","Land_use_category",5,0.2,0.348717948717949
+"Kuipers_GCB_2023",227,"227_1",108.4167,12.00198,"Vertebrates","Land_use","Cropland","Land_use_category",10,0.5,0.600967910058819
+"Kuipers_GCB_2023",229,"229_1",-91.67384,16.09868,"Vertebrates","Land_use","Cropland","Land_use_category",5,0.8,0.971428571428571
+"Kuipers_GCB_2023",230,"230_1",28.58,1.42,"Vertebrates","Land_use","Cropland","Land_use_category",4,0.75,0.75
+"Kuipers_GCB_2023",231,"231_1",4.63,44.33,"Vertebrates","Land_use","Cropland","Land_use_category",2,0,0.125
+"Kuipers_GCB_2023",231,"231_1",4.63,44.33,"Vertebrates","Land_use","Forest plantation","Land_use_category",2,0,0.45
+"Kuipers_GCB_2023",237,"237_1",-110.58,38.25,"Vertebrates","Land_use","Pasture","Land_use_category",4,0,0.34935141509434
+"Kuipers_GCB_2023",238,"238_1",175.58,-38.5,"Vertebrates","Land_use","Forest plantation","Land_use_category",7,0.142857142857143,0.401087122952075
